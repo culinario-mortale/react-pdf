@@ -1,21 +1,43 @@
-# @react-pdf/image
+# @easypliant/react-pdf-image
+
+## 5.0.1
+
+### Patch Changes
+
+- Fix: release config
+
+- Updated dependencies []:
+  - @easypliant/react-pdf-png-js@5.0.1
+
+## 5.0.0
+
+### Major Changes
+
+- Major bump
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @easypliant/react-pdf-png-js@5.0.0
 
 ## 4.0.0
 
 ### Major Changes
 
-- [`0689ca3a7d6275ba4fe37542f670a9fb80133c85`](https://github.com/easypliant/react-pdf/commit/0689ca3a7d6275ba4fe37542f670a9fb80133c85)
-  Thanks [@florianbepunkt](https://github.com/florianbepunkt)! - Facture-x/ZUGFeRD compliant invoices
+- Update to react 19
 
 ### Patch Changes
 
-- [`31f4a730d6b54583621c65b0c2f1621f025acfe6`](https://github.com/easypliant/react-pdf/commit/31f4a730d6b54583621c65b0c2f1621f025acfe6)
-  Thanks [@florianbepunkt](https://github.com/florianbepunkt)! - expose xml primitive
-
-- Updated dependencies
-  [[`0689ca3a7d6275ba4fe37542f670a9fb80133c85`](https://github.com/easypliant/react-pdf/commit/0689ca3a7d6275ba4fe37542f670a9fb80133c85),
-  [`31f4a730d6b54583621c65b0c2f1621f025acfe6`](https://github.com/easypliant/react-pdf/commit/31f4a730d6b54583621c65b0c2f1621f025acfe6)]:
+- Updated dependencies []:
   - @easypliant/react-pdf-png-js@4.0.0
+
+## 3.0.1
+
+### Patch Changes
+
+- [#2947](https://github.com/diegomura/react-pdf/pull/2947)
+  [`ed562b9b`](https://github.com/diegomura/react-pdf/commit/ed562b9b7f14bc76a1cd83aaaf1dab966bd7540b)
+  Thanks [@diegomura](https://github.com/diegomura)! - feat: remove cross-fetch
 
 ## 3.0.0
 
@@ -33,7 +55,7 @@
 
 - Updated dependencies
   [[`70f29a04`](https://github.com/diegomura/react-pdf/commit/70f29a0407b1d56e9a7932b25c0d69132e9b4119)]:
-  - @react-pdf/png-js@3.0.0
+  - @easypliant/react-pdf-png-js@3.0.0
 
 ## 2.3.6
 
@@ -62,7 +84,7 @@
 
 - Updated dependencies
   [[`f7505ed`](https://github.com/diegomura/react-pdf/commit/f7505ed453a1a0ae960d0e5e4a1d155803861b71)]:
-  - @react-pdf/png-js@2.3.1
+  - @easypliant/react-pdf-png-js@2.3.1
 
 ## 2.3.3
 
@@ -103,7 +125,7 @@
 
 - Updated dependencies
   [[`b6a14fd`](https://github.com/diegomura/react-pdf/commit/b6a14fd160fab26a49f798e5294b0e361e67fe37)]:
-  - @react-pdf/png-js@2.3.0
+  - @easypliant/react-pdf-png-js@2.3.0
 
 ## 2.2.3
 
@@ -144,7 +166,7 @@
 - Updated dependencies
   [[`a5a933c`](https://github.com/diegomura/react-pdf/commit/a5a933c9733e4c77338ef76a2b3545b84a646a81),
   [`001a208`](https://github.com/diegomura/react-pdf/commit/001a20812fa039d09931b22eb97a8869e3b31cc5)]:
-  - @react-pdf/png-js@2.2.0
+  - @easypliant/react-pdf-png-js@2.2.0
 
 ## 2.1.1
 
@@ -175,4 +197,4 @@
 - Updated dependencies
   [[`4c5d527`](https://github.com/diegomura/react-pdf/commit/4c5d52721d29d843f1d09c3fd74370832429f70e),
   [`04449ab`](https://github.com/diegomura/react-pdf/commit/04449ab352db0cca2155024dd3e8c690e42193ca)]:
-  - @react-pdf/png-js@2.1.0
+  - @easypliant/react-pdf-png-js@2.1.0

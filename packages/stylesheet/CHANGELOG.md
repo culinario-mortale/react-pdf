@@ -1,22 +1,70 @@
-# @react-pdf/stylesheet
+# @easypliant/react-pdf-stylesheet
+
+## 7.0.1
+
+### Patch Changes
+
+- Fix: release config
+
+- Updated dependencies []:
+  - @easypliant/react-pdf-types@4.0.1
+  - @easypliant/react-pdf-fns@5.0.1
+
+## 7.0.0
+
+### Major Changes
+
+- Major bump
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @easypliant/react-pdf-fns@5.0.0
+  - @easypliant/react-pdf-types@4.0.0
 
 ## 6.0.0
 
 ### Major Changes
 
-- [`0689ca3a7d6275ba4fe37542f670a9fb80133c85`](https://github.com/easypliant/react-pdf/commit/0689ca3a7d6275ba4fe37542f670a9fb80133c85)
-  Thanks [@florianbepunkt](https://github.com/florianbepunkt)! - Facture-x/ZUGFeRD compliant invoices
+- Update to react 19
 
 ### Patch Changes
 
-- [`31f4a730d6b54583621c65b0c2f1621f025acfe6`](https://github.com/easypliant/react-pdf/commit/31f4a730d6b54583621c65b0c2f1621f025acfe6)
-  Thanks [@florianbepunkt](https://github.com/florianbepunkt)! - expose xml primitive
-
-- Updated dependencies
-  [[`0689ca3a7d6275ba4fe37542f670a9fb80133c85`](https://github.com/easypliant/react-pdf/commit/0689ca3a7d6275ba4fe37542f670a9fb80133c85),
-  [`31f4a730d6b54583621c65b0c2f1621f025acfe6`](https://github.com/easypliant/react-pdf/commit/31f4a730d6b54583621c65b0c2f1621f025acfe6)]:
-  - @easypliant/react-pdf-types@3.0.0
+- Updated dependencies []:
   - @easypliant/react-pdf-fns@4.0.0
+  - @easypliant/react-pdf-types@3.0.0
+
+## 5.2.0
+
+### Minor Changes
+
+- [#2773](https://github.com/diegomura/react-pdf/pull/2773)
+  [`18834efa`](https://github.com/diegomura/react-pdf/commit/18834efac2787a636c378718fee40cbe74f01ab8)
+  Thanks [@nikischin](https://github.com/nikischin)! - Changed unit behavior according to PDF spec.
+  Please note that all unitless values are considered as user unit which is a 72dpi equality of the
+  value. This is according to PDF spec and ensures a consistent layout independent of the dpi setting.
+
+## 5.1.0
+
+### Minor Changes
+
+- [#2955](https://github.com/diegomura/react-pdf/pull/2955)
+  [`425f1183`](https://github.com/diegomura/react-pdf/commit/425f1183bba9a83fd5712a1371abb6cea2ed8fca)
+  Thanks [@diegomura](https://github.com/diegomura)! - feat: support rem units
+
+### Patch Changes
+
+- [#2952](https://github.com/diegomura/react-pdf/pull/2952)
+  [`2c3c887e`](https://github.com/diegomura/react-pdf/commit/2c3c887ea2d3aed2863f49bff375d08feaf975aa)
+  Thanks [@diegomura](https://github.com/diegomura)! - feat: support multiple line-height units
+
+## 5.0.1
+
+### Patch Changes
+
+- [#2950](https://github.com/diegomura/react-pdf/pull/2950)
+  [`77e480cd`](https://github.com/diegomura/react-pdf/commit/77e480cdd161270ac07453525dfaf993e2d3f17f)
+  Thanks [@diegomura](https://github.com/diegomura)! - feat: accept commas between transformations
 
 ## 5.0.0
 
@@ -32,8 +80,8 @@
   [[`46c3047d`](https://github.com/diegomura/react-pdf/commit/46c3047de56ae82f062b72c4910a4e6096eee99f),
   [`55973278`](https://github.com/diegomura/react-pdf/commit/55973278ac8bc8f703b63844f57d6f155ae8d86f),
   [`70f29a04`](https://github.com/diegomura/react-pdf/commit/70f29a0407b1d56e9a7932b25c0d69132e9b4119)]:
-  - @react-pdf/types@2.7.0
-  - @react-pdf/fns@3.0.0
+  - @easypliant/react-pdf-types@2.7.0
+  - @easypliant/react-pdf-fns@3.0.0
 
 ## 4.3.0
 
@@ -48,7 +96,7 @@
 - Updated dependencies
   [[`8e6a832`](https://github.com/diegomura/react-pdf/commit/8e6a8320f86354aff950c296a96bc41a33e9dab2),
   [`4bafab8`](https://github.com/diegomura/react-pdf/commit/4bafab8455c9003759f48bad20a720baf4ed189b)]:
-  - @react-pdf/types@2.6.0
+  - @easypliant/react-pdf-types@2.6.0
 
 ## 4.2.5
 
@@ -56,7 +104,7 @@
 
 - Updated dependencies
   [[`22a34a9`](https://github.com/diegomura/react-pdf/commit/22a34a91b16a201cd8288e0dbea9368b12ca73f5)]:
-  - @react-pdf/types@2.5.0
+  - @easypliant/react-pdf-types@2.5.0
 
 ## 4.2.4
 
@@ -68,7 +116,7 @@
 
 - Updated dependencies
   [[`f7505ed`](https://github.com/diegomura/react-pdf/commit/f7505ed453a1a0ae960d0e5e4a1d155803861b71)]:
-  - @react-pdf/fns@2.2.1
+  - @easypliant/react-pdf-fns@2.2.1
 
 ## 4.2.3
 
@@ -77,8 +125,8 @@
 - Updated dependencies
   [[`9af07fe`](https://github.com/diegomura/react-pdf/commit/9af07feb59c2fe9c1d8960ac95f6fa6e03d16235),
   [`8350154`](https://github.com/diegomura/react-pdf/commit/83501541e3a050021e18e112bb472b2dabc142a7)]:
-  - @react-pdf/types@2.4.1
-  - @react-pdf/fns@2.2.0
+  - @easypliant/react-pdf-types@2.4.1
+  - @easypliant/react-pdf-fns@2.2.0
 
 ## 4.2.2
 
@@ -86,7 +134,7 @@
 
 - Updated dependencies
   [[`fb5273d`](https://github.com/diegomura/react-pdf/commit/fb5273d8d80d919f7b9c214e02d67b79ce23fa19)]:
-  - @react-pdf/types@2.4.0
+  - @easypliant/react-pdf-types@2.4.0
 
 ## 4.2.1
 
@@ -94,7 +142,7 @@
 
 - Updated dependencies
   [[`9e5842b`](https://github.com/diegomura/react-pdf/commit/9e5842bbecca6e249af2c5fc50078bb7ddd5420f)]:
-  - @react-pdf/types@2.3.6
+  - @easypliant/react-pdf-types@2.3.6
 
 ## 4.2.0
 
@@ -112,7 +160,7 @@
 
 - Updated dependencies
   [[`b6a14fd`](https://github.com/diegomura/react-pdf/commit/b6a14fd160fab26a49f798e5294b0e361e67fe37)]:
-  - @react-pdf/fns@2.1.0
+  - @easypliant/react-pdf-fns@2.1.0
 
 ## 4.1.9
 
@@ -122,7 +170,7 @@
   [[`e5c8fde`](https://github.com/diegomura/react-pdf/commit/e5c8fde9379a9a85ecac7e3d6273953e39d65f8d),
   [`1f987cc`](https://github.com/diegomura/react-pdf/commit/1f987cc27c3fd1ef1b6748ebe58a289a78b538d2),
   [`4c40b14`](https://github.com/diegomura/react-pdf/commit/4c40b149cfed42f2513e1dd330a92ccc3363c04f)]:
-  - @react-pdf/types@2.3.5
+  - @easypliant/react-pdf-types@2.3.5
 
 ## 4.1.8
 
@@ -130,7 +178,7 @@
 
 - Updated dependencies
   [[`4a55c1b`](https://github.com/diegomura/react-pdf/commit/4a55c1b2ed19e460ccae6e749ed94c16729a23c4)]:
-  - @react-pdf/types@2.3.4
+  - @easypliant/react-pdf-types@2.3.4
 
 ## 4.1.7
 
@@ -139,7 +187,7 @@
 - Updated dependencies
   [[`1e1fbdc`](https://github.com/diegomura/react-pdf/commit/1e1fbdc3c33ced46d8c7ebba7a196733cb789d59),
   [`8636812`](https://github.com/diegomura/react-pdf/commit/86368122ed87621d19ae3bc248080e17703d9fcb)]:
-  - @react-pdf/types@2.3.3
+  - @easypliant/react-pdf-types@2.3.3
 
 ## 4.1.6
 
@@ -147,7 +195,7 @@
 
 - Updated dependencies
   [[`a25dbcb`](https://github.com/diegomura/react-pdf/commit/a25dbcb32b65c300f5b088e8b210bb0c1abca5c2)]:
-  - @react-pdf/types@2.3.2
+  - @easypliant/react-pdf-types@2.3.2
 
 ## 4.1.5
 
@@ -155,7 +203,7 @@
 
 - Updated dependencies
   [[`47e91cb`](https://github.com/diegomura/react-pdf/commit/47e91cbd8016046bb4e8389ba0d1c7ede9edce59)]:
-  - @react-pdf/types@2.3.1
+  - @easypliant/react-pdf-types@2.3.1
 
 ## 4.1.4
 
@@ -164,8 +212,8 @@
 - Updated dependencies
   [[`2db67a3`](https://github.com/diegomura/react-pdf/commit/2db67a38b9be98b7816a2b5aa4733446b95e3724),
   [`eff1ff0`](https://github.com/diegomura/react-pdf/commit/eff1ff0fefcd710994e4654904ef55843af76a17)]:
-  - @react-pdf/types@2.3.0
-  - @react-pdf/fns@2.0.1
+  - @easypliant/react-pdf-types@2.3.0
+  - @easypliant/react-pdf-fns@2.0.1
 
 ## 4.1.3
 
@@ -203,7 +251,7 @@
 
 - Updated dependencies
   [[`a743c90`](https://github.com/diegomura/react-pdf/commit/a743c905fb5d201d2382bc9175fa36b83cc47284)]:
-  - @react-pdf/types@2.2.0
+  - @easypliant/react-pdf-types@2.2.0
 
 ## 4.0.0
 
@@ -218,7 +266,7 @@
 
 - Updated dependencies
   [[`a5a933c`](https://github.com/diegomura/react-pdf/commit/a5a933c9733e4c77338ef76a2b3545b84a646a81)]:
-  - @react-pdf/fns@2.0.0
+  - @easypliant/react-pdf-fns@2.0.0
 
 ## 3.2.0
 
@@ -243,7 +291,7 @@
   [`4fadb48`](https://github.com/diegomura/react-pdf/commit/4fadb48983d7269452f89f80c7e341ece859aaee),
   [`ce8762f`](https://github.com/diegomura/react-pdf/commit/ce8762f6de5c796e69ec5a225c7f3ff9c619a960),
   [`5d2c308`](https://github.com/diegomura/react-pdf/commit/5d2c3088cf438a8abf1038b14a21117fecf59d57)]:
-  - @react-pdf/types@2.1.0
+  - @easypliant/react-pdf-types@2.1.0
 
 ## 3.0.0
 
@@ -262,8 +310,8 @@
 - Updated dependencies
   [[`9bdb5c9`](https://github.com/diegomura/react-pdf/commit/9bdb5c934a822340754cd4c892d399f91f6218de),
   [`fe0f214`](https://github.com/diegomura/react-pdf/commit/fe0f214dbbf2f632b852ebfe65f886ecc4dd6953)]:
-  - @react-pdf/fns@1.0.0
-  - @react-pdf/types@2.0.9
+  - @easypliant/react-pdf-fns@1.0.0
+  - @easypliant/react-pdf-types@2.0.9
 
 ## 2.1.0
 
@@ -285,4 +333,4 @@
 
 - Updated dependencies
   [[`04449ab`](https://github.com/diegomura/react-pdf/commit/04449ab352db0cca2155024dd3e8c690e42193ca)]:
-  - @react-pdf/types@2.0.8
+  - @easypliant/react-pdf-types@2.0.8

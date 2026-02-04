@@ -1,6 +1,6 @@
 {
   "name": "@easypliant/react-pdf-primitives",
-  "version": "5.0.0",
+  "version": "6.0.1",
   "license": "MIT",
   "description": "Define uninitialized elements",
   "author": "Diego Muracciole <diegomuracciole@gmail.com>",
@@ -12,11 +12,7 @@
     "url": "https://github.com/easypliant/react-pdf.git",
     "directory": "packages/primitives"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/easypliant"
-  },
   "scripts": {
-    "format": "prettier --write \"./**/*.{js,jsx,ts,tsx,json}\"",
     "test": "vitest"
   },
   "files": [

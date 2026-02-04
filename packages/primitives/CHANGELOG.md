@@ -1,16 +1,22 @@
-# @react-pdf/primitives
+# @easypliant/react-pdf-primitives
+
+## 6.0.1
+
+### Patch Changes
+
+- Fix: release config
+
+## 6.0.0
+
+### Major Changes
+
+- Major bump
 
 ## 5.0.0
 
 ### Major Changes
 
-- [`0689ca3a7d6275ba4fe37542f670a9fb80133c85`](https://github.com/easypliant/react-pdf/commit/0689ca3a7d6275ba4fe37542f670a9fb80133c85)
-  Thanks [@florianbepunkt](https://github.com/florianbepunkt)! - Facture-x/ZUGFeRD compliant invoices
-
-### Patch Changes
-
-- [`31f4a730d6b54583621c65b0c2f1621f025acfe6`](https://github.com/easypliant/react-pdf/commit/31f4a730d6b54583621c65b0c2f1621f025acfe6)
-  Thanks [@florianbepunkt](https://github.com/florianbepunkt)! - expose xml primitive
+- Update to react 19
 
 ## 4.0.0
 
@@ -26,7 +32,8 @@
 
 - [#2510](https://github.com/diegomura/react-pdf/pull/2510)
   [`42bbbda`](https://github.com/diegomura/react-pdf/commit/42bbbda48058acd2d36d7a92c812d133608c459e)
-  Thanks [@wojtekmaj](https://github.com/wojtekmaj)! - Fix require @react-pdf/primitives from CJS
+  Thanks [@wojtekmaj](https://github.com/wojtekmaj)! - Fix require @easypliant/react-pdf-primitives from
+  CJS
 
 ## 3.1.0
 
