@@ -1,4 +1,4 @@
-import * as P from "@easypliant/react-pdf-primitives";
+import * as P from "@culinario-mortale/react-pdf-primitives";
 
 const isDefs = (node) => node.type === P.Defs;
 

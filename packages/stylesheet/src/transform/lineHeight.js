@@ -1,6 +1,6 @@
 /* eslint-disable no-restricted-globals */
 
-import { matchPercent } from "@easypliant/react-pdf-fns";
+import { matchPercent } from "@culinario-mortale/react-pdf-fns";
 
 const processLineHeight = (value, styles) => {
   if (value === "") return value;

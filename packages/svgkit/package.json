@@ -1,5 +1,5 @@
 {
-  "name": "@easypliant/react-pdf-svgkit",
+  "name": "@culinario-mortale/react-pdf-svgkit",
   "license": "MIT",
   "version": "4.0.2",
   "description": "A SVG generation library for Node.js and browser",
@@ -7,7 +7,7 @@
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/easypliant/react-pdf.git",
+    "url": "https://github.com/culinario-mortale/react-pdf.git",
     "directory": "packages/svgkit"
   },
   "contributors": [
@@ -23,6 +23,6 @@
   ],
   "dependencies": {
     "@babel/runtime": "^7.20.13",
-    "@easypliant/react-pdf-pdfkit": "^6.0.2"
+    "@culinario-mortale/react-pdf-pdfkit": "^6.0.2"
   }
 }

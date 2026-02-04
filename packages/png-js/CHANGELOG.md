@@ -1,4 +1,4 @@
-# @easypliant/react-pdf-png-js
+# @culinario-mortale/react-pdf-png-js
 
 ## 5.0.1
 

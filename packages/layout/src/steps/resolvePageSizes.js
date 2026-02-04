@@ -1,4 +1,4 @@
-import { flatten } from "@easypliant/react-pdf-stylesheet";
+import { flatten } from "@culinario-mortale/react-pdf-stylesheet";
 import getPageSize from "../page/getSize";
 
 /**

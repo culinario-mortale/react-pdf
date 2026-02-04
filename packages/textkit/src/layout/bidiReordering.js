@@ -1,5 +1,5 @@
 import bidiFactory from "bidi-js";
-import { repeat } from "@easypliant/react-pdf-fns";
+import { repeat } from "@culinario-mortale/react-pdf-fns";
 
 import stringLength from "../attributedString/length";
 

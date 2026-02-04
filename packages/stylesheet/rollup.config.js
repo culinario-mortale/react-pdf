@@ -5,7 +5,7 @@ import pkg from "./package.json" with { type: "json" };
 
 const input = "src/index.js";
 
-const getExternal = () => [...Object.keys(pkg.dependencies), /@babel\/runtime/, /@easypliant/];
+const getExternal = () => [...Object.keys(pkg.dependencies), /@babel\/runtime/, /@culinario-mortale/];
 
 const getPlugins = () => [
   localResolve(),

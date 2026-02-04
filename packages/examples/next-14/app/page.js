@@ -1,6 +1,6 @@
 "use client";
 
-import { Document, Page, PDFViewer, PDFDownloadLink, Text } from "@easypliant/react-pdf-renderer";
+import { Document, Page, PDFViewer, PDFDownloadLink, Text } from "@culinario-mortale/react-pdf-renderer";
 
 export default function Home() {
   const doc = (

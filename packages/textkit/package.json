@@ -1,5 +1,5 @@
 {
-  "name": "@easypliant/react-pdf-textkit",
+  "name": "@culinario-mortale/react-pdf-textkit",
   "license": "MIT",
   "version": "7.0.1",
   "description": "An advanced text layout framework",
@@ -7,7 +7,7 @@
   "main": "./lib/textkit.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/easypliant/react-pdf.git",
+    "url": "https://github.com/culinario-mortale/react-pdf.git",
     "directory": "packages/textkit"
   },
   "contributors": [
@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "@babel/runtime": "^7.20.13",
-    "@easypliant/react-pdf-fns": "5.0.1",
+    "@culinario-mortale/react-pdf-fns": "5.0.1",
     "bidi-js": "^1.0.2",
     "hyphen": "^1.6.4",
     "unicode-properties": "^1.4.1"

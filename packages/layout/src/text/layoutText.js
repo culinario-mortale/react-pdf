@@ -5,7 +5,7 @@ import layoutEngine, {
   scriptItemizer,
   wordHyphenation,
   textDecoration,
-} from "@easypliant/react-pdf-textkit";
+} from "@culinario-mortale/react-pdf-textkit";
 
 import fontSubstitution from "./fontSubstitution";
 import getAttributedString from "./getAttributedString";

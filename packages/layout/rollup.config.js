@@ -5,7 +5,7 @@ import pkg from "./package.json" with { type: "json" };
 const config = {
   input: "src/index.js",
   output: { format: "es", file: "lib/index.js" },
-  external: Object.keys(pkg.dependencies).concat(/@babel\/runtime/, /@easypliant/),
+  external: Object.keys(pkg.dependencies).concat(/@babel\/runtime/, /@culinario-mortale/),
   plugins: [
     babel({
       babelrc: true,

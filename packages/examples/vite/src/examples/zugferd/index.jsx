@@ -2,7 +2,7 @@
 /* eslint react/jsx-sort-props: 0 */
 
 import React from "react";
-import { Document, Page, Text, Font, Xml } from "@easypliant/react-pdf-renderer";
+import { Document, Page, Text, Font, Xml } from "@culinario-mortale/react-pdf-renderer";
 
 import RobotoFont from "../../../public/Roboto-Regular.ttf";
 

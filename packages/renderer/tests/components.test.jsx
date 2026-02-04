@@ -8,7 +8,7 @@ import {
   Document,
   Page,
   Text,
-} from "@easypliant/react-pdf-renderer";
+} from "@culinario-mortale/react-pdf-renderer";
 
 const TestDocument = ({ title = "Default" }) => (
   <Document title={title}>

@@ -2,8 +2,8 @@
 /* eslint-disable no-continue */
 /* eslint-disable prefer-destructuring */
 
-import * as P from "@easypliant/react-pdf-primitives";
-import { isNil, omit, compose } from "@easypliant/react-pdf-fns";
+import * as P from "@culinario-mortale/react-pdf-primitives";
+import { isNil, omit, compose } from "@culinario-mortale/react-pdf-fns";
 
 import isFixed from "../node/isFixed";
 import splitText from "../text/splitText";

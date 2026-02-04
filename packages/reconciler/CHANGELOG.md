@@ -1,4 +1,4 @@
-# @easypliant/react-pdf-reconciler
+# @culinario-mortale/react-pdf-reconciler
 
 ## 3.0.1
 

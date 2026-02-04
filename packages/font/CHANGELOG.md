@@ -1,4 +1,4 @@
-# @easypliant/react-pdf-font
+# @culinario-mortale/react-pdf-font
 
 ## 5.0.1
 
@@ -7,7 +7,7 @@
 - Fix: release config
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-types@4.0.1
+  - @culinario-mortale/react-pdf-types@4.0.1
 
 ## 5.0.0
 
@@ -18,7 +18,7 @@
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-types@4.0.0
+  - @culinario-mortale/react-pdf-types@4.0.0
 
 ## 4.0.0
 
@@ -29,7 +29,7 @@
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-types@3.0.0
+  - @culinario-mortale/react-pdf-types@3.0.0
 
 ## 3.0.1
 
@@ -52,7 +52,7 @@
 - Updated dependencies
   [[`46c3047d`](https://github.com/diegomura/react-pdf/commit/46c3047de56ae82f062b72c4910a4e6096eee99f),
   [`55973278`](https://github.com/diegomura/react-pdf/commit/55973278ac8bc8f703b63844f57d6f155ae8d86f)]:
-  - @easypliant/react-pdf-types@2.7.0
+  - @culinario-mortale/react-pdf-types@2.7.0
 
 ## 2.5.2
 
@@ -61,7 +61,7 @@
 - Updated dependencies
   [[`8e6a832`](https://github.com/diegomura/react-pdf/commit/8e6a8320f86354aff950c296a96bc41a33e9dab2),
   [`4bafab8`](https://github.com/diegomura/react-pdf/commit/4bafab8455c9003759f48bad20a720baf4ed189b)]:
-  - @easypliant/react-pdf-types@2.6.0
+  - @culinario-mortale/react-pdf-types@2.6.0
 
 ## 2.5.1
 
@@ -69,7 +69,7 @@
 
 - Updated dependencies
   [[`22a34a9`](https://github.com/diegomura/react-pdf/commit/22a34a91b16a201cd8288e0dbea9368b12ca73f5)]:
-  - @easypliant/react-pdf-types@2.5.0
+  - @culinario-mortale/react-pdf-types@2.5.0
 
 ## 2.5.0
 
@@ -94,7 +94,7 @@
 
 - Updated dependencies
   [[`9af07fe`](https://github.com/diegomura/react-pdf/commit/9af07feb59c2fe9c1d8960ac95f6fa6e03d16235)]:
-  - @easypliant/react-pdf-types@2.4.1
+  - @culinario-mortale/react-pdf-types@2.4.1
 
 ## 2.4.2
 
@@ -102,7 +102,7 @@
 
 - Updated dependencies
   [[`fb5273d`](https://github.com/diegomura/react-pdf/commit/fb5273d8d80d919f7b9c214e02d67b79ce23fa19)]:
-  - @easypliant/react-pdf-types@2.4.0
+  - @culinario-mortale/react-pdf-types@2.4.0
 
 ## 2.4.1
 
@@ -110,7 +110,7 @@
 
 - Updated dependencies
   [[`9e5842b`](https://github.com/diegomura/react-pdf/commit/9e5842bbecca6e249af2c5fc50078bb7ddd5420f)]:
-  - @easypliant/react-pdf-types@2.3.6
+  - @culinario-mortale/react-pdf-types@2.3.6
 
 ## 2.4.0
 
@@ -133,7 +133,7 @@
   [[`e5c8fde`](https://github.com/diegomura/react-pdf/commit/e5c8fde9379a9a85ecac7e3d6273953e39d65f8d),
   [`1f987cc`](https://github.com/diegomura/react-pdf/commit/1f987cc27c3fd1ef1b6748ebe58a289a78b538d2),
   [`4c40b14`](https://github.com/diegomura/react-pdf/commit/4c40b149cfed42f2513e1dd330a92ccc3363c04f)]:
-  - @easypliant/react-pdf-types@2.3.5
+  - @culinario-mortale/react-pdf-types@2.3.5
 
 ## 2.3.7
 
@@ -141,7 +141,7 @@
 
 - Updated dependencies
   [[`4a55c1b`](https://github.com/diegomura/react-pdf/commit/4a55c1b2ed19e460ccae6e749ed94c16729a23c4)]:
-  - @easypliant/react-pdf-types@2.3.4
+  - @culinario-mortale/react-pdf-types@2.3.4
 
 ## 2.3.6
 
@@ -150,7 +150,7 @@
 - Updated dependencies
   [[`1e1fbdc`](https://github.com/diegomura/react-pdf/commit/1e1fbdc3c33ced46d8c7ebba7a196733cb789d59),
   [`8636812`](https://github.com/diegomura/react-pdf/commit/86368122ed87621d19ae3bc248080e17703d9fcb)]:
-  - @easypliant/react-pdf-types@2.3.3
+  - @culinario-mortale/react-pdf-types@2.3.3
 
 ## 2.3.5
 
@@ -158,7 +158,7 @@
 
 - Updated dependencies
   [[`a25dbcb`](https://github.com/diegomura/react-pdf/commit/a25dbcb32b65c300f5b088e8b210bb0c1abca5c2)]:
-  - @easypliant/react-pdf-types@2.3.2
+  - @culinario-mortale/react-pdf-types@2.3.2
 
 ## 2.3.4
 
@@ -171,7 +171,7 @@
 
 - Updated dependencies
   [[`47e91cb`](https://github.com/diegomura/react-pdf/commit/47e91cbd8016046bb4e8389ba0d1c7ede9edce59)]:
-  - @easypliant/react-pdf-types@2.3.1
+  - @culinario-mortale/react-pdf-types@2.3.1
 
 ## 2.3.3
 
@@ -179,7 +179,7 @@
 
 - Updated dependencies
   [[`2db67a3`](https://github.com/diegomura/react-pdf/commit/2db67a38b9be98b7816a2b5aa4733446b95e3724)]:
-  - @easypliant/react-pdf-types@2.3.0
+  - @culinario-mortale/react-pdf-types@2.3.0
 
 ## 2.3.2
 
@@ -232,7 +232,7 @@
 
 - Updated dependencies
   [[`0fcc594`](https://github.com/diegomura/react-pdf/commit/0fcc594310d5af30ca1e752b3efc7a047e813dcb)]:
-  - @easypliant/react-pdf-fontkit@2.1.2
+  - @culinario-mortale/react-pdf-fontkit@2.1.2
 
 ## 2.2.0
 
@@ -246,7 +246,7 @@
 
 - Updated dependencies
   [[`fe0f214`](https://github.com/diegomura/react-pdf/commit/fe0f214dbbf2f632b852ebfe65f886ecc4dd6953)]:
-  - @easypliant/react-pdf-types@2.0.9
+  - @culinario-mortale/react-pdf-types@2.0.9
 
 ## 2.1.1
 
@@ -279,5 +279,5 @@
   [`4c5d527`](https://github.com/diegomura/react-pdf/commit/4c5d52721d29d843f1d09c3fd74370832429f70e),
   [`04449ab`](https://github.com/diegomura/react-pdf/commit/04449ab352db0cca2155024dd3e8c690e42193ca),
   [`ccf3bf2`](https://github.com/diegomura/react-pdf/commit/ccf3bf22867a9bd49668cdd3543ec32492a40e4b)]:
-  - @easypliant/react-pdf-fontkit@2.1.0
-  - @easypliant/react-pdf-types@2.0.8
+  - @culinario-mortale/react-pdf-fontkit@2.1.0
+  - @culinario-mortale/react-pdf-types@2.0.8

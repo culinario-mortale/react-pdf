@@ -2,7 +2,7 @@ const fs = require("node:fs/promises");
 const assert = require("node:assert");
 const { test } = require("node:test");
 const { jsx } = require("react/jsx-runtime");
-const { Document, Page, Text, renderToBuffer } = require("@easypliant/react-pdf-renderer");
+const { Document, Page, Text, renderToBuffer } = require("@culinario-mortale/react-pdf-renderer");
 
 const MyDocument = () =>
   jsx(Document, {

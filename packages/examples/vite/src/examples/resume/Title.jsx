@@ -1,5 +1,5 @@
 import React from "react";
-import { Text, StyleSheet } from "@easypliant/react-pdf-renderer";
+import { Text, StyleSheet } from "@culinario-mortale/react-pdf-renderer";
 
 const styles = StyleSheet.create({
   title: {

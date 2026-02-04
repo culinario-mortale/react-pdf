@@ -1,4 +1,4 @@
-# @easypliant/react-pdf-textkit
+# @culinario-mortale/react-pdf-textkit
 
 ## 7.0.1
 
@@ -7,7 +7,7 @@
 - Fix: release config
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-fns@5.0.1
+  - @culinario-mortale/react-pdf-fns@5.0.1
 
 ## 7.0.0
 
@@ -18,7 +18,7 @@
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-fns@5.0.0
+  - @culinario-mortale/react-pdf-fns@5.0.0
 
 ## 6.0.0
 
@@ -29,7 +29,7 @@
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-fns@4.0.0
+  - @culinario-mortale/react-pdf-fns@4.0.0
 
 ## 5.0.1
 
@@ -51,7 +51,7 @@
 
 - Updated dependencies
   [[`70f29a04`](https://github.com/diegomura/react-pdf/commit/70f29a0407b1d56e9a7932b25c0d69132e9b4119)]:
-  - @easypliant/react-pdf-fns@3.0.0
+  - @culinario-mortale/react-pdf-fns@3.0.0
 
 ## 4.4.1
 
@@ -63,7 +63,7 @@
 
 - Updated dependencies
   [[`f7505ed`](https://github.com/diegomura/react-pdf/commit/f7505ed453a1a0ae960d0e5e4a1d155803861b71)]:
-  - @easypliant/react-pdf-fns@2.2.1
+  - @culinario-mortale/react-pdf-fns@2.2.1
 
 ## 4.4.0
 
@@ -77,7 +77,7 @@
 
 - Updated dependencies
   [[`8350154`](https://github.com/diegomura/react-pdf/commit/83501541e3a050021e18e112bb472b2dabc142a7)]:
-  - @easypliant/react-pdf-fns@2.2.0
+  - @culinario-mortale/react-pdf-fns@2.2.0
 
 ## 4.3.0
 
@@ -91,7 +91,7 @@
 
 - Updated dependencies
   [[`b6a14fd`](https://github.com/diegomura/react-pdf/commit/b6a14fd160fab26a49f798e5294b0e361e67fe37)]:
-  - @easypliant/react-pdf-fns@2.1.0
+  - @culinario-mortale/react-pdf-fns@2.1.0
 
 ## 4.2.1
 
@@ -114,7 +114,7 @@
 
 - Updated dependencies
   [[`eff1ff0`](https://github.com/diegomura/react-pdf/commit/eff1ff0fefcd710994e4654904ef55843af76a17)]:
-  - @easypliant/react-pdf-fns@2.0.1
+  - @culinario-mortale/react-pdf-fns@2.0.1
 
 ## 4.1.1
 
@@ -142,7 +142,7 @@
 
 - Updated dependencies
   [[`a5a933c`](https://github.com/diegomura/react-pdf/commit/a5a933c9733e4c77338ef76a2b3545b84a646a81)]:
-  - @easypliant/react-pdf-fns@2.0.0
+  - @culinario-mortale/react-pdf-fns@2.0.0
 
 ## 4.0.0
 
@@ -182,8 +182,8 @@
 - Updated dependencies
   [[`434df31`](https://github.com/diegomura/react-pdf/commit/434df317a92ae5b51ee7b23a9f6500de0b6aa4aa),
   [`9bdb5c9`](https://github.com/diegomura/react-pdf/commit/9bdb5c934a822340754cd4c892d399f91f6218de)]:
-  - @easypliant/react-pdf-unicode-properties@2.6.0
-  - @easypliant/react-pdf-fns@1.0.0
+  - @culinario-mortale/react-pdf-unicode-properties@2.6.0
+  - @culinario-mortale/react-pdf-fns@1.0.0
 
 ## 2.1.0
 
@@ -207,4 +207,4 @@
 * Updated dependencies
   [[`4c5d527`](https://github.com/diegomura/react-pdf/commit/4c5d52721d29d843f1d09c3fd74370832429f70e),
   [`04449ab`](https://github.com/diegomura/react-pdf/commit/04449ab352db0cca2155024dd3e8c690e42193ca)]:
-  - @easypliant/react-pdf-unicode-properties@2.5.0
+  - @culinario-mortale/react-pdf-unicode-properties@2.5.0

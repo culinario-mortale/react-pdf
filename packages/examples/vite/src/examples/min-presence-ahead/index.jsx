@@ -1,5 +1,5 @@
 import React from "react";
-import { Document, Page, View, Text } from "@easypliant/react-pdf-renderer";
+import { Document, Page, View, Text } from "@culinario-mortale/react-pdf-renderer";
 
 const palette = [
   "#781c81",

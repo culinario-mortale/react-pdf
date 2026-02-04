@@ -1,15 +1,15 @@
 {
-  "name": "@easypliant/react-pdf-stylesheet",
+  "name": "@culinario-mortale/react-pdf-stylesheet",
   "version": "7.0.1",
   "license": "MIT",
   "description": "A styles engine for Node and the browser",
   "author": "Diego Muracciole <diegomuracciole@gmail.com>",
-  "homepage": "https://github.com/easypliant/react-pdf#readme",
+  "homepage": "https://github.com/culinario-mortale/react-pdf#readme",
   "type": "module",
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/easypliant/react-pdf.git",
+    "url": "https://github.com/culinario-mortale/react-pdf.git",
     "directory": "packages/stylesheet"
   },
   "scripts": {
@@ -19,8 +19,8 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.20.13",
-    "@easypliant/react-pdf-fns": "5.0.1",
-    "@easypliant/react-pdf-types": "^4.0.1",
+    "@culinario-mortale/react-pdf-fns": "5.0.1",
+    "@culinario-mortale/react-pdf-types": "^4.0.1",
     "color-string": "^1.9.1",
     "hsl-to-hex": "^1.0.0",
     "media-engine": "^1.0.3",

@@ -1,5 +1,5 @@
 /**
- * Resolves `src` to `@easypliant/react-pdf-image` interface.
+ * Resolves `src` to `@culinario-mortale/react-pdf-image` interface.
  *
  * Also it handles factories and async sources.
  *

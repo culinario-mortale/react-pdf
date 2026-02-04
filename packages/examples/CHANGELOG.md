@@ -1,4 +1,4 @@
-# @easypliant/react-pdf-examples
+# @culinario-mortale/react-pdf-examples
 
 ## 2.0.0
 

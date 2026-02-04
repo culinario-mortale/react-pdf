@@ -1,7 +1,7 @@
 /* eslint-disable react/no-array-index-key */
 
 import React from "react";
-import { Document, Page, Svg, G, Rect } from "@easypliant/react-pdf-renderer";
+import { Document, Page, Svg, G, Rect } from "@culinario-mortale/react-pdf-renderer";
 
 const COLORS = ["red", "green", "blue", "yellow", "purple"];
 

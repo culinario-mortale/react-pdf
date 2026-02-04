@@ -1,6 +1,6 @@
 /* eslint-disable no-param-reassign */
 
-import resolveImage from "@easypliant/react-pdf-image";
+import resolveImage from "@culinario-mortale/react-pdf-image";
 
 import getSource from "./getSource";
 import resolveSource from "./resolveSource";

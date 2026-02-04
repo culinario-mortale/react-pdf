@@ -1,6 +1,6 @@
 import { describe, expect, test } from "vitest";
 
-import { Text, Document, Page } from "@easypliant/react-pdf-primitives";
+import { Text, Document, Page } from "@culinario-mortale/react-pdf-primitives";
 import renderToImage from "./renderComponent";
 
 const emptyString = "";

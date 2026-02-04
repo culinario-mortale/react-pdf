@@ -1,10 +1,10 @@
 {
-  "name": "@easypliant/react-pdf-renderer",
+  "name": "@culinario-mortale/react-pdf-renderer",
   "version": "6.0.2",
   "license": "MIT",
   "description": "Create PDF files on the browser and server",
   "author": "Diego Muracciole <diegomuracciole@gmail.com>",
-  "homepage": "https://github.com/easypliant/react-pdf#readme",
+  "homepage": "https://github.com/culinario-mortale/react-pdf#readme",
   "type": "module",
   "main": "./lib/react-pdf.js",
   "browser": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/easypliant/react-pdf.git",
+    "url": "https://github.com/culinario-mortale/react-pdf.git",
     "directory": "packages/renderer"
   },
   "scripts": {
@@ -24,13 +24,13 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.20.13",
-    "@easypliant/react-pdf-font": "^5.0.1",
-    "@easypliant/react-pdf-layout": "^6.0.2",
-    "@easypliant/react-pdf-pdfkit": "^6.0.2",
-    "@easypliant/react-pdf-primitives": "^6.0.1",
-    "@easypliant/react-pdf-reconciler": "^3.0.1",
-    "@easypliant/react-pdf-render": "^6.0.1",
-    "@easypliant/react-pdf-types": "^4.0.1",
+    "@culinario-mortale/react-pdf-font": "^5.0.1",
+    "@culinario-mortale/react-pdf-layout": "^6.0.2",
+    "@culinario-mortale/react-pdf-pdfkit": "^6.0.2",
+    "@culinario-mortale/react-pdf-primitives": "^6.0.1",
+    "@culinario-mortale/react-pdf-reconciler": "^3.0.1",
+    "@culinario-mortale/react-pdf-render": "^6.0.1",
+    "@culinario-mortale/react-pdf-types": "^4.0.1",
     "events": "^3.3.0",
     "object-assign": "^4.1.1",
     "prop-types": "^15.6.2",

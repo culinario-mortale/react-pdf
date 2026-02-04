@@ -2,7 +2,7 @@
 import { expect, it } from "vitest";
 
 import { renderHook, waitFor, act } from "@testing-library/react";
-import { usePDF, Document, Page, Text } from "@easypliant/react-pdf-renderer";
+import { usePDF, Document, Page, Text } from "@culinario-mortale/react-pdf-renderer";
 
 const TestDocument = ({ title = "Default" }) => (
   <Document title={title}>

@@ -1,4 +1,4 @@
-import { isNil, matchPercent } from "@easypliant/react-pdf-fns";
+import { isNil, matchPercent } from "@culinario-mortale/react-pdf-fns";
 
 /**
  * Transform percent height into fixed

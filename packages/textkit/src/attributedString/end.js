@@ -1,4 +1,4 @@
-import { last } from "@easypliant/react-pdf-fns";
+import { last } from "@culinario-mortale/react-pdf-fns";
 
 /**
  * @typedef {import('../types.js').AttributedString} AttributedString

@@ -1,5 +1,5 @@
-import * as P from "@easypliant/react-pdf-primitives";
-import { isNil } from "@easypliant/react-pdf-fns";
+import * as P from "@culinario-mortale/react-pdf-primitives";
+import { isNil } from "@culinario-mortale/react-pdf-fns";
 
 import renderPath from "./renderPath";
 import renderRect from "./renderRect";

@@ -1,14 +1,14 @@
 {
-  "name": "@easypliant/react-pdf-types",
+  "name": "@culinario-mortale/react-pdf-types",
   "version": "4.0.1",
   "license": "MIT",
   "description": "React-pdf TypeScript definitions",
   "author": "Diego Muracciole <diegomuracciole@gmail.com>",
-  "homepage": "https://github.com/easypliant/react-pdf#readme",
+  "homepage": "https://github.com/culinario-mortale/react-pdf#readme",
   "main": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/easypliant/react-pdf.git",
+    "url": "https://github.com/culinario-mortale/react-pdf.git",
     "directory": "packages/types"
   }
 }

@@ -1,4 +1,4 @@
-import { isNil, last } from "@easypliant/react-pdf-fns";
+import { isNil, last } from "@culinario-mortale/react-pdf-fns";
 
 /**
  * Append glyph indices with given length

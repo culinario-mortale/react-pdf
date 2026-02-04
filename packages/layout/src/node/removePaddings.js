@@ -1,4 +1,4 @@
-import { omit } from "@easypliant/react-pdf-fns";
+import { omit } from "@culinario-mortale/react-pdf-fns";
 
 import setPadding from "./setPadding";
 

@@ -1,5 +1,5 @@
 import * as Yoga from "yoga-layout/load";
-import { isNil } from "@easypliant/react-pdf-fns";
+import { isNil } from "@culinario-mortale/react-pdf-fns";
 
 const OVERFLOW = {
   hidden: Yoga.Overflow.Hidden,

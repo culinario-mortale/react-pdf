@@ -1,4 +1,4 @@
-import { evolve, matchPercent } from "@easypliant/react-pdf-fns";
+import { evolve, matchPercent } from "@culinario-mortale/react-pdf-fns";
 
 /**
  * @typedef {Function} ResolveRadius

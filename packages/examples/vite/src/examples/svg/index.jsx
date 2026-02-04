@@ -1,5 +1,5 @@
 import React from "react";
-import { Document, Page, StyleSheet } from "@easypliant/react-pdf-renderer";
+import { Document, Page, StyleSheet } from "@culinario-mortale/react-pdf-renderer";
 
 import Svg0 from "./svg";
 import Svg1 from "./Svg1";

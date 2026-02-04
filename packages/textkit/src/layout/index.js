@@ -1,4 +1,4 @@
-import { compose } from "@easypliant/react-pdf-fns";
+import { compose } from "@culinario-mortale/react-pdf-fns";
 
 import wrapWords from "./wrapWords";
 import typesetter from "./typesetter";

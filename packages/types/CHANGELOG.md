@@ -1,4 +1,4 @@
-# @easypliant/react-pdf-types
+# @culinario-mortale/react-pdf-types
 
 ## 4.0.1
 

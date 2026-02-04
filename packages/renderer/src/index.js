@@ -1,7 +1,7 @@
-import FontStore from "@easypliant/react-pdf-font";
-import renderPDF from "@easypliant/react-pdf-render";
-import PDFDocument from "@easypliant/react-pdf-pdfkit";
-import layoutDocument from "@easypliant/react-pdf-layout";
+import FontStore from "@culinario-mortale/react-pdf-font";
+import renderPDF from "@culinario-mortale/react-pdf-render";
+import PDFDocument from "@culinario-mortale/react-pdf-pdfkit";
+import layoutDocument from "@culinario-mortale/react-pdf-layout";
 
 import createRenderer from "./renderer";
 import packageJson from "../package.json";

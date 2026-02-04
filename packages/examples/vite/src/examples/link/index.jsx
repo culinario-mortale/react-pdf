@@ -1,5 +1,5 @@
 import React from "react";
-import { Document, Page, Link, Text, View } from "@easypliant/react-pdf-renderer";
+import { Document, Page, Link, Text, View } from "@culinario-mortale/react-pdf-renderer";
 
 const LinkExample = () => (
   <Document>

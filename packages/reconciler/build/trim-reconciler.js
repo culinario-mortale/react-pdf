@@ -1,6 +1,7 @@
 /* eslint-disable import/no-extraneous-dependencies */
 
 import * as recast from "recast";
+import * as babelParser from "recast/parsers/babel.js";
 import { visit } from "ast-types";
 
 const trueLiteral = recast.types.builders.literal(true);
@@ -93,7 +94,7 @@ const trimReconciler = () => {
     name: "trim-reconciler",
 
     transform(code) {
-      const ast = recast.parse(code);
+      const ast = recast.parse(code, { parser: babelParser });
 
       visit(ast, {
         visitMemberExpression(path) {

@@ -3,7 +3,7 @@
 import Canvas from "canvas";
 import pdfjs from "pdfjs-dist/legacy/build/pdf";
 
-import { renderToBuffer } from "@easypliant/react-pdf-renderer";
+import { renderToBuffer } from "@culinario-mortale/react-pdf-renderer";
 
 /**
  * copy-pasted code from

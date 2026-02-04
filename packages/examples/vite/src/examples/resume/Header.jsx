@@ -1,5 +1,5 @@
 import React from "react";
-import { Link, Text, View, StyleSheet } from "@easypliant/react-pdf-renderer";
+import { Link, Text, View, StyleSheet } from "@culinario-mortale/react-pdf-renderer";
 
 const styles = StyleSheet.create({
   container: {

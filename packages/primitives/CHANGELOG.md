@@ -1,4 +1,4 @@
-# @easypliant/react-pdf-primitives
+# @culinario-mortale/react-pdf-primitives
 
 ## 6.0.1
 
@@ -32,8 +32,8 @@
 
 - [#2510](https://github.com/diegomura/react-pdf/pull/2510)
   [`42bbbda`](https://github.com/diegomura/react-pdf/commit/42bbbda48058acd2d36d7a92c812d133608c459e)
-  Thanks [@wojtekmaj](https://github.com/wojtekmaj)! - Fix require @easypliant/react-pdf-primitives from
-  CJS
+  Thanks [@wojtekmaj](https://github.com/wojtekmaj)! - Fix require
+  @culinario-mortale/react-pdf-primitives from CJS
 
 ## 3.1.0
 

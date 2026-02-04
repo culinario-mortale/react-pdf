@@ -1,15 +1,15 @@
 {
-  "name": "@easypliant/react-pdf-layout",
+  "name": "@culinario-mortale/react-pdf-layout",
   "version": "6.0.2",
   "license": "MIT",
   "description": "Resolve overall document component's layout",
   "author": "Diego Muracciole <diegomuracciole@gmail.com>",
-  "homepage": "https://github.com/easypliant/react-pdf#readme",
+  "homepage": "https://github.com/culinario-mortale/react-pdf#readme",
   "type": "module",
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/easypliant/react-pdf.git",
+    "url": "https://github.com/culinario-mortale/react-pdf.git",
     "directory": "packages/layout"
   },
   "scripts": {
@@ -19,13 +19,13 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.20.13",
-    "@easypliant/react-pdf-fns": "5.0.1",
-    "@easypliant/react-pdf-image": "^5.0.1",
-    "@easypliant/react-pdf-pdfkit": "^6.0.2",
-    "@easypliant/react-pdf-primitives": "^6.0.1",
-    "@easypliant/react-pdf-stylesheet": "^7.0.1",
-    "@easypliant/react-pdf-textkit": "^7.0.1",
-    "@easypliant/react-pdf-types": "^4.0.1",
+    "@culinario-mortale/react-pdf-fns": "5.0.1",
+    "@culinario-mortale/react-pdf-image": "^5.0.1",
+    "@culinario-mortale/react-pdf-pdfkit": "^6.0.2",
+    "@culinario-mortale/react-pdf-primitives": "^6.0.1",
+    "@culinario-mortale/react-pdf-stylesheet": "^7.0.1",
+    "@culinario-mortale/react-pdf-textkit": "^7.0.1",
+    "@culinario-mortale/react-pdf-types": "^4.0.1",
     "emoji-regex": "^10.3.0",
     "queue": "^6.0.1",
     "yoga-layout": "^3.2.1"

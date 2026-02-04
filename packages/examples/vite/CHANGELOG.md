@@ -1,18 +1,18 @@
-# @easypliant/react-pdf-examples
+# @culinario-mortale/react-pdf-examples
 
 ## 5.0.2
 
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-renderer@6.0.2
+  - @culinario-mortale/react-pdf-renderer@6.0.2
 
 ## 5.0.1
 
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-renderer@6.0.1
+  - @culinario-mortale/react-pdf-renderer@6.0.1
 
 ## 5.0.0
 
@@ -23,7 +23,7 @@
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-renderer@6.0.0
+  - @culinario-mortale/react-pdf-renderer@6.0.0
 
 ## 4.0.0
 
@@ -34,35 +34,35 @@
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-renderer@5.0.0
+  - @culinario-mortale/react-pdf-renderer@5.0.0
 
 ## 3.3.12
 
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-renderer@4.1.6
+  - @culinario-mortale/react-pdf-renderer@4.1.6
 
 ## 3.3.11
 
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-renderer@4.1.5
+  - @culinario-mortale/react-pdf-renderer@4.1.5
 
 ## 3.3.10
 
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-renderer@4.1.4
+  - @culinario-mortale/react-pdf-renderer@4.1.4
 
 ## 3.3.9
 
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-renderer@4.1.3
+  - @culinario-mortale/react-pdf-renderer@4.1.3
 
 ## 3.3.8
 
@@ -70,14 +70,14 @@
 
 - Updated dependencies
   [[`aab7d958`](https://github.com/diegomura/react-pdf/commit/aab7d95870d9073e4acb004aa0cce9cfa19b7f0e)]:
-  - @easypliant/react-pdf-renderer@4.1.2
+  - @culinario-mortale/react-pdf-renderer@4.1.2
 
 ## 3.3.7
 
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-renderer@4.1.1
+  - @culinario-mortale/react-pdf-renderer@4.1.1
 
 ## 3.3.6
 
@@ -85,7 +85,7 @@
 
 - Updated dependencies
   [[`52b2f253`](https://github.com/diegomura/react-pdf/commit/52b2f25349bee0c09399bc2e7e5e89db5e1433fd)]:
-  - @easypliant/react-pdf-renderer@4.1.0
+  - @culinario-mortale/react-pdf-renderer@4.1.0
 
 ## 3.3.5
 
@@ -93,14 +93,14 @@
 
 - Updated dependencies
   [[`7add014c`](https://github.com/diegomura/react-pdf/commit/7add014c6bc9cff649dd1a56fc47214888613b6b)]:
-  - @easypliant/react-pdf-renderer@4.0.2
+  - @culinario-mortale/react-pdf-renderer@4.0.2
 
 ## 3.3.4
 
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-renderer@4.0.1
+  - @culinario-mortale/react-pdf-renderer@4.0.1
 
 ## 3.3.3
 
@@ -109,7 +109,7 @@
 - Updated dependencies
   [[`afe4bcfe`](https://github.com/diegomura/react-pdf/commit/afe4bcfe6f4b991cf22341242fc27d169b758d47),
   [`70f29a04`](https://github.com/diegomura/react-pdf/commit/70f29a0407b1d56e9a7932b25c0d69132e9b4119)]:
-  - @easypliant/react-pdf-renderer@4.0.0
+  - @culinario-mortale/react-pdf-renderer@4.0.0
 
 ## 3.3.2
 
@@ -121,14 +121,14 @@
 
 - Updated dependencies
   [[`ed94775`](https://github.com/diegomura/react-pdf/commit/ed94775f4d44db0886ff08c71d09f446bace6392)]:
-  - @easypliant/react-pdf-renderer@3.4.5
+  - @culinario-mortale/react-pdf-renderer@3.4.5
 
 ## 3.3.1
 
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-renderer@3.4.4
+  - @culinario-mortale/react-pdf-renderer@3.4.4
 
 ## 3.3.0
 
@@ -142,21 +142,21 @@
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-renderer@3.4.3
+  - @culinario-mortale/react-pdf-renderer@3.4.3
 
 ## 3.2.13
 
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-renderer@3.4.2
+  - @culinario-mortale/react-pdf-renderer@3.4.2
 
 ## 3.2.12
 
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-renderer@3.4.1
+  - @culinario-mortale/react-pdf-renderer@3.4.1
 
 ## 3.2.11
 
@@ -164,14 +164,14 @@
 
 - Updated dependencies
   [[`fab09cc`](https://github.com/diegomura/react-pdf/commit/fab09cc9814326fdb44d2bcb7097ba9960d441d1)]:
-  - @easypliant/react-pdf-renderer@3.4.0
+  - @culinario-mortale/react-pdf-renderer@3.4.0
 
 ## 3.2.10
 
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-renderer@3.3.8
+  - @culinario-mortale/react-pdf-renderer@3.3.8
 
 ## 3.2.9
 
@@ -179,28 +179,28 @@
 
 - Updated dependencies
   [[`f7505ed`](https://github.com/diegomura/react-pdf/commit/f7505ed453a1a0ae960d0e5e4a1d155803861b71)]:
-  - @easypliant/react-pdf-renderer@3.3.7
+  - @culinario-mortale/react-pdf-renderer@3.3.7
 
 ## 3.2.8
 
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-renderer@3.3.6
+  - @culinario-mortale/react-pdf-renderer@3.3.6
 
 ## 3.2.7
 
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-renderer@3.3.5
+  - @culinario-mortale/react-pdf-renderer@3.3.5
 
 ## 3.2.6
 
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-renderer@3.3.4
+  - @culinario-mortale/react-pdf-renderer@3.3.4
 
 ## 3.2.5
 
@@ -208,14 +208,14 @@
 
 - Updated dependencies
   [[`b5380a1`](https://github.com/diegomura/react-pdf/commit/b5380a1a0a7397b4111d68ce97b4acb702d34d51)]:
-  - @easypliant/react-pdf-renderer@3.3.3
+  - @culinario-mortale/react-pdf-renderer@3.3.3
 
 ## 3.2.4
 
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-renderer@3.3.2
+  - @culinario-mortale/react-pdf-renderer@3.3.2
 
 ## 3.2.3
 
@@ -227,7 +227,7 @@
 
 - Updated dependencies
   [[`a35b1ba`](https://github.com/diegomura/react-pdf/commit/a35b1ba18d293df51293600d8d56015094d222d8)]:
-  - @easypliant/react-pdf-renderer@3.3.1
+  - @culinario-mortale/react-pdf-renderer@3.3.1
 
 ## 3.2.2
 
@@ -251,14 +251,14 @@
   [`cf73180`](https://github.com/diegomura/react-pdf/commit/cf7318069e63170e160a36602359fc8cbc3386c2),
   [`0f5c43f`](https://github.com/diegomura/react-pdf/commit/0f5c43fa6f3c0b53c067200cc1ac21e651504760),
   [`66a40b2`](https://github.com/diegomura/react-pdf/commit/66a40b2e41cefe11f1ef8d467ba449a8861adb69)]:
-  - @easypliant/react-pdf-renderer@3.3.0
+  - @culinario-mortale/react-pdf-renderer@3.3.0
 
 ## 3.2.1
 
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-renderer@3.2.1
+  - @culinario-mortale/react-pdf-renderer@3.2.1
 
 ## 3.2.0
 
@@ -276,7 +276,7 @@
 
 - Updated dependencies
   [[`b6a14fd`](https://github.com/diegomura/react-pdf/commit/b6a14fd160fab26a49f798e5294b0e361e67fe37)]:
-  - @easypliant/react-pdf-renderer@3.2.0
+  - @culinario-mortale/react-pdf-renderer@3.2.0
 
 ## 3.1.0
 
@@ -289,7 +289,7 @@
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-renderer@3.1.17
+  - @culinario-mortale/react-pdf-renderer@3.1.17
 
 ## 3.0.0
 
@@ -307,21 +307,21 @@
 
 - Updated dependencies
   [[`8654d00`](https://github.com/diegomura/react-pdf/commit/8654d003023dd0899cddfc2ea2f5a552e01cf570)]:
-  - @easypliant/react-pdf-renderer@3.1.16
+  - @culinario-mortale/react-pdf-renderer@3.1.16
 
 ## 2.0.14
 
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-renderer@3.1.15
+  - @culinario-mortale/react-pdf-renderer@3.1.15
 
 ## 2.0.13
 
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-renderer@3.1.14
+  - @culinario-mortale/react-pdf-renderer@3.1.14
 
 ## 2.0.12
 
@@ -329,7 +329,7 @@
 
 - Updated dependencies
   [[`3b5e1c7`](https://github.com/diegomura/react-pdf/commit/3b5e1c7c71a0f830ae2b70da8aac2b2bd5015ca3)]:
-  - @easypliant/react-pdf-renderer@3.1.13
+  - @culinario-mortale/react-pdf-renderer@3.1.13
 
 ## 2.0.11
 
@@ -337,14 +337,14 @@
 
 - Updated dependencies
   [[`6d408c8`](https://github.com/diegomura/react-pdf/commit/6d408c838b1aa9bea0db63bf36b2a6932a20404c)]:
-  - @easypliant/react-pdf-renderer@3.1.12
+  - @culinario-mortale/react-pdf-renderer@3.1.12
 
 ## 2.0.10
 
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-renderer@3.1.11
+  - @culinario-mortale/react-pdf-renderer@3.1.11
 
 ## 2.0.9
 
@@ -353,14 +353,14 @@
 - Updated dependencies
   [[`113de53`](https://github.com/diegomura/react-pdf/commit/113de537b0fa9bae06a69e7c8daa988fe319fc6a),
   [`d6018d5`](https://github.com/diegomura/react-pdf/commit/d6018d5a80492270ff5f5b4c00e694f7dc1cd93f)]:
-  - @easypliant/react-pdf-renderer@3.1.10
+  - @culinario-mortale/react-pdf-renderer@3.1.10
 
 ## 2.0.8
 
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-renderer@3.1.9
+  - @culinario-mortale/react-pdf-renderer@3.1.9
 
 ## 2.0.7
 
@@ -369,7 +369,7 @@
 - Updated dependencies
   [[`5832ff2`](https://github.com/diegomura/react-pdf/commit/5832ff20e1ce4a0e49cf5249dcdf4b304eab04c6),
   [`37bfa1b`](https://github.com/diegomura/react-pdf/commit/37bfa1ba26386d1725f42ba5e108d8c72aa71e85)]:
-  - @easypliant/react-pdf-renderer@3.1.8
+  - @culinario-mortale/react-pdf-renderer@3.1.8
 
 ## 2.0.6
 
@@ -377,7 +377,7 @@
 
 - Updated dependencies
   [[`b194b61`](https://github.com/diegomura/react-pdf/commit/b194b619b19a7683b64d47eaa2573635e6884e8d)]:
-  - @easypliant/react-pdf-renderer@3.1.7
+  - @culinario-mortale/react-pdf-renderer@3.1.7
 
 ## 2.0.5
 
@@ -386,7 +386,7 @@
 - Updated dependencies
   [[`9a5e0be`](https://github.com/diegomura/react-pdf/commit/9a5e0befb89756db07ce053192a136df9d4ba905),
   [`f6667e7`](https://github.com/diegomura/react-pdf/commit/f6667e75449c241d02f9f44fb717a71443c555c1)]:
-  - @easypliant/react-pdf-renderer@3.1.6
+  - @culinario-mortale/react-pdf-renderer@3.1.6
 
 ## 2.0.4
 
@@ -395,14 +395,14 @@
 - Updated dependencies
   [[`f4d2b68`](https://github.com/diegomura/react-pdf/commit/f4d2b68765d146e4718140f65eeceb7e69e2cfee),
   [`75150ca`](https://github.com/diegomura/react-pdf/commit/75150ca137b709fcab6e7cefee9dfac6b48d5aaa)]:
-  - @easypliant/react-pdf-renderer@3.1.5
+  - @culinario-mortale/react-pdf-renderer@3.1.5
 
 ## 2.0.3
 
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-renderer@3.1.4
+  - @culinario-mortale/react-pdf-renderer@3.1.4
 
 ## 2.0.2
 
@@ -414,7 +414,7 @@
   [`7eefc33`](https://github.com/diegomura/react-pdf/commit/7eefc3323390c59bf6d4f923749526831572ef1a),
   [`3b054b7`](https://github.com/diegomura/react-pdf/commit/3b054b711f5dc0b1c4fd29feaf85b430baad2663),
   [`9996158`](https://github.com/diegomura/react-pdf/commit/9996158636edf2118c4a6dcce08a00408b982993)]:
-  - @easypliant/react-pdf-renderer@3.0.0
+  - @culinario-mortale/react-pdf-renderer@3.0.0
 
 ## 2.0.1
 
@@ -426,4 +426,4 @@
 
 - Updated dependencies
   [[`6c799ec`](https://github.com/diegomura/react-pdf/commit/6c799ec1bbe17106df6db109df4a62c70e39bd24)]:
-  - @easypliant/react-pdf-renderer@2.1.2
+  - @culinario-mortale/react-pdf-renderer@2.1.2

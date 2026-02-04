@@ -1,4 +1,4 @@
-# @easypliant/react-pdf-fns
+# @culinario-mortale/react-pdf-fns
 
 ## 5.0.1
 

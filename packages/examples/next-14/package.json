@@ -8,7 +8,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@easypliant/react-pdf-renderer": "^6.0.2",
+    "@culinario-mortale/react-pdf-renderer": "^6.0.2",
     "react": "^18",
     "react-dom": "^18",
     "next": "14.2.17"

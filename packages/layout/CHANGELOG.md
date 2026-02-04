@@ -1,11 +1,11 @@
-# @easypliant/react-pdf-layout
+# @culinario-mortale/react-pdf-layout
 
 ## 6.0.2
 
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-pdfkit@6.0.2
+  - @culinario-mortale/react-pdf-pdfkit@6.0.2
 
 ## 6.0.1
 
@@ -14,13 +14,13 @@
 - Fix: release config
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-primitives@6.0.1
-  - @easypliant/react-pdf-stylesheet@7.0.1
-  - @easypliant/react-pdf-textkit@7.0.1
-  - @easypliant/react-pdf-pdfkit@6.0.1
-  - @easypliant/react-pdf-image@5.0.1
-  - @easypliant/react-pdf-types@4.0.1
-  - @easypliant/react-pdf-fns@5.0.1
+  - @culinario-mortale/react-pdf-primitives@6.0.1
+  - @culinario-mortale/react-pdf-stylesheet@7.0.1
+  - @culinario-mortale/react-pdf-textkit@7.0.1
+  - @culinario-mortale/react-pdf-pdfkit@6.0.1
+  - @culinario-mortale/react-pdf-image@5.0.1
+  - @culinario-mortale/react-pdf-types@4.0.1
+  - @culinario-mortale/react-pdf-fns@5.0.1
 
 ## 6.0.0
 
@@ -31,13 +31,13 @@
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-fns@5.0.0
-  - @easypliant/react-pdf-image@5.0.0
-  - @easypliant/react-pdf-pdfkit@6.0.0
-  - @easypliant/react-pdf-primitives@6.0.0
-  - @easypliant/react-pdf-stylesheet@7.0.0
-  - @easypliant/react-pdf-textkit@7.0.0
-  - @easypliant/react-pdf-types@4.0.0
+  - @culinario-mortale/react-pdf-fns@5.0.0
+  - @culinario-mortale/react-pdf-image@5.0.0
+  - @culinario-mortale/react-pdf-pdfkit@6.0.0
+  - @culinario-mortale/react-pdf-primitives@6.0.0
+  - @culinario-mortale/react-pdf-stylesheet@7.0.0
+  - @culinario-mortale/react-pdf-textkit@7.0.0
+  - @culinario-mortale/react-pdf-types@4.0.0
 
 ## 5.0.0
 
@@ -48,13 +48,13 @@
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-fns@4.0.0
-  - @easypliant/react-pdf-image@4.0.0
-  - @easypliant/react-pdf-pdfkit@5.0.0
-  - @easypliant/react-pdf-primitives@5.0.0
-  - @easypliant/react-pdf-stylesheet@6.0.0
-  - @easypliant/react-pdf-textkit@6.0.0
-  - @easypliant/react-pdf-types@3.0.0
+  - @culinario-mortale/react-pdf-fns@4.0.0
+  - @culinario-mortale/react-pdf-image@4.0.0
+  - @culinario-mortale/react-pdf-pdfkit@5.0.0
+  - @culinario-mortale/react-pdf-primitives@5.0.0
+  - @culinario-mortale/react-pdf-stylesheet@6.0.0
+  - @culinario-mortale/react-pdf-textkit@6.0.0
+  - @culinario-mortale/react-pdf-types@3.0.0
 
 ## 4.2.0
 
@@ -70,7 +70,7 @@
 
 - Updated dependencies
   [[`18834efa`](https://github.com/diegomura/react-pdf/commit/18834efac2787a636c378718fee40cbe74f01ab8)]:
-  - @easypliant/react-pdf-stylesheet@5.2.0
+  - @culinario-mortale/react-pdf-stylesheet@5.2.0
 
 ## 4.1.3
 
@@ -78,7 +78,7 @@
 
 - Updated dependencies
   [[`00bfdc1e`](https://github.com/diegomura/react-pdf/commit/00bfdc1e5a6c673d2de7b3ab09d5020e932562fb)]:
-  - @easypliant/react-pdf-textkit@5.0.1
+  - @culinario-mortale/react-pdf-textkit@5.0.1
 
 ## 4.1.2
 
@@ -95,7 +95,7 @@
 - Updated dependencies
   [[`425f1183`](https://github.com/diegomura/react-pdf/commit/425f1183bba9a83fd5712a1371abb6cea2ed8fca),
   [`2c3c887e`](https://github.com/diegomura/react-pdf/commit/2c3c887ea2d3aed2863f49bff375d08feaf975aa)]:
-  - @easypliant/react-pdf-stylesheet@5.1.0
+  - @culinario-mortale/react-pdf-stylesheet@5.1.0
 
 ## 4.1.1
 
@@ -108,8 +108,8 @@
 - Updated dependencies
   [[`ed562b9b`](https://github.com/diegomura/react-pdf/commit/ed562b9b7f14bc76a1cd83aaaf1dab966bd7540b),
   [`77e480cd`](https://github.com/diegomura/react-pdf/commit/77e480cdd161270ac07453525dfaf993e2d3f17f)]:
-  - @easypliant/react-pdf-image@3.0.1
-  - @easypliant/react-pdf-stylesheet@5.0.1
+  - @culinario-mortale/react-pdf-image@3.0.1
+  - @culinario-mortale/react-pdf-stylesheet@5.0.1
 
 ## 4.1.0
 
@@ -161,13 +161,13 @@
   [`46c3047d`](https://github.com/diegomura/react-pdf/commit/46c3047de56ae82f062b72c4910a4e6096eee99f),
   [`55973278`](https://github.com/diegomura/react-pdf/commit/55973278ac8bc8f703b63844f57d6f155ae8d86f),
   [`70f29a04`](https://github.com/diegomura/react-pdf/commit/70f29a0407b1d56e9a7932b25c0d69132e9b4119)]:
-  - @easypliant/react-pdf-pdfkit@4.0.0
-  - @easypliant/react-pdf-image@3.0.0
-  - @easypliant/react-pdf-types@2.7.0
-  - @easypliant/react-pdf-primitives@4.0.0
-  - @easypliant/react-pdf-stylesheet@5.0.0
-  - @easypliant/react-pdf-textkit@5.0.0
-  - @easypliant/react-pdf-fns@3.0.0
+  - @culinario-mortale/react-pdf-pdfkit@4.0.0
+  - @culinario-mortale/react-pdf-image@3.0.0
+  - @culinario-mortale/react-pdf-types@2.7.0
+  - @culinario-mortale/react-pdf-primitives@4.0.0
+  - @culinario-mortale/react-pdf-stylesheet@5.0.0
+  - @culinario-mortale/react-pdf-textkit@5.0.0
+  - @culinario-mortale/react-pdf-fns@3.0.0
 
 ## 3.13.0
 
@@ -194,9 +194,9 @@
 - Updated dependencies
   [[`8e6a832`](https://github.com/diegomura/react-pdf/commit/8e6a8320f86354aff950c296a96bc41a33e9dab2),
   [`4bafab8`](https://github.com/diegomura/react-pdf/commit/4bafab8455c9003759f48bad20a720baf4ed189b)]:
-  - @easypliant/react-pdf-pdfkit@3.2.0
-  - @easypliant/react-pdf-stylesheet@4.3.0
-  - @easypliant/react-pdf-types@2.6.0
+  - @culinario-mortale/react-pdf-pdfkit@3.2.0
+  - @culinario-mortale/react-pdf-stylesheet@4.3.0
+  - @culinario-mortale/react-pdf-types@2.6.0
 
 ## 3.12.1
 
@@ -204,8 +204,8 @@
 
 - Updated dependencies
   [[`22a34a9`](https://github.com/diegomura/react-pdf/commit/22a34a91b16a201cd8288e0dbea9368b12ca73f5)]:
-  - @easypliant/react-pdf-types@2.5.0
-  - @easypliant/react-pdf-stylesheet@4.2.5
+  - @culinario-mortale/react-pdf-types@2.5.0
+  - @culinario-mortale/react-pdf-stylesheet@4.2.5
 
 ## 3.12.0
 
@@ -220,7 +220,7 @@
 
 - Updated dependencies
   [[`713690c`](https://github.com/diegomura/react-pdf/commit/713690cca266116bb7e80d13cf84bc843f9dfd52)]:
-  - @easypliant/react-pdf-pdfkit@3.1.10
+  - @culinario-mortale/react-pdf-pdfkit@3.1.10
 
 ## 3.11.5
 
@@ -228,7 +228,7 @@
 
 - Updated dependencies
   [[`e2d21a4`](https://github.com/diegomura/react-pdf/commit/e2d21a433b881bb96ea4d0b3a01a7297dd1f4a94)]:
-  - @easypliant/react-pdf-pdfkit@3.1.9
+  - @culinario-mortale/react-pdf-pdfkit@3.1.9
 
 ## 3.11.4
 
@@ -236,8 +236,8 @@
 
 - Updated dependencies
   [[`68bfc57`](https://github.com/diegomura/react-pdf/commit/68bfc575adfb95302e320019715d1eec5398259f)]:
-  - @easypliant/react-pdf-pdfkit@3.1.8
-  - @easypliant/react-pdf-image@2.3.6
+  - @culinario-mortale/react-pdf-pdfkit@3.1.8
+  - @culinario-mortale/react-pdf-image@2.3.6
 
 ## 3.11.3
 
@@ -249,8 +249,8 @@
 
 - Updated dependencies
   [[`da10a9b`](https://github.com/diegomura/react-pdf/commit/da10a9bb43dc4c4765687850444a24cbc4eb402a)]:
-  - @easypliant/react-pdf-pdfkit@3.1.7
-  - @easypliant/react-pdf-image@2.3.5
+  - @culinario-mortale/react-pdf-pdfkit@3.1.7
+  - @culinario-mortale/react-pdf-image@2.3.5
 
 ## 3.11.2
 
@@ -258,7 +258,7 @@
 
 - Updated dependencies
   [[`dc54c13`](https://github.com/diegomura/react-pdf/commit/dc54c13625510482e93f80ed5cc07cf3a6a6d34c)]:
-  - @easypliant/react-pdf-pdfkit@3.1.6
+  - @culinario-mortale/react-pdf-pdfkit@3.1.6
 
 ## 3.11.1
 
@@ -270,11 +270,11 @@
 
 - Updated dependencies
   [[`f7505ed`](https://github.com/diegomura/react-pdf/commit/f7505ed453a1a0ae960d0e5e4a1d155803861b71)]:
-  - @easypliant/react-pdf-stylesheet@4.2.4
-  - @easypliant/react-pdf-textkit@4.4.1
-  - @easypliant/react-pdf-image@2.3.4
-  - @easypliant/react-pdf-fns@2.2.1
-  - @easypliant/react-pdf-pdfkit@3.1.5
+  - @culinario-mortale/react-pdf-stylesheet@4.2.4
+  - @culinario-mortale/react-pdf-textkit@4.4.1
+  - @culinario-mortale/react-pdf-image@2.3.4
+  - @culinario-mortale/react-pdf-fns@2.2.1
+  - @culinario-mortale/react-pdf-pdfkit@3.1.5
 
 ## 3.11.0
 
@@ -293,12 +293,12 @@
 - Updated dependencies
   [[`9af07fe`](https://github.com/diegomura/react-pdf/commit/9af07feb59c2fe9c1d8960ac95f6fa6e03d16235),
   [`8350154`](https://github.com/diegomura/react-pdf/commit/83501541e3a050021e18e112bb472b2dabc142a7)]:
-  - @easypliant/react-pdf-image@2.3.3
-  - @easypliant/react-pdf-types@2.4.1
-  - @easypliant/react-pdf-textkit@4.4.0
-  - @easypliant/react-pdf-fns@2.2.0
-  - @easypliant/react-pdf-pdfkit@3.1.4
-  - @easypliant/react-pdf-stylesheet@4.2.3
+  - @culinario-mortale/react-pdf-image@2.3.3
+  - @culinario-mortale/react-pdf-types@2.4.1
+  - @culinario-mortale/react-pdf-textkit@4.4.0
+  - @culinario-mortale/react-pdf-fns@2.2.0
+  - @culinario-mortale/react-pdf-pdfkit@3.1.4
+  - @culinario-mortale/react-pdf-stylesheet@4.2.3
 
 ## 3.10.4
 
@@ -306,8 +306,8 @@
 
 - Updated dependencies
   [[`0590324`](https://github.com/diegomura/react-pdf/commit/0590324d7a6d75c0a49520b3f99cfb6594239390)]:
-  - @easypliant/react-pdf-image@2.3.2
-  - @easypliant/react-pdf-pdfkit@3.1.3
+  - @culinario-mortale/react-pdf-image@2.3.2
+  - @culinario-mortale/react-pdf-pdfkit@3.1.3
 
 ## 3.10.3
 
@@ -315,7 +315,7 @@
 
 - Updated dependencies
   [[`44bd45b`](https://github.com/diegomura/react-pdf/commit/44bd45b1961ca8bae4a2f84cc77db945e5c43419)]:
-  - @easypliant/react-pdf-pdfkit@3.1.2
+  - @culinario-mortale/react-pdf-pdfkit@3.1.2
 
 ## 3.10.2
 
@@ -323,8 +323,8 @@
 
 - Updated dependencies
   [[`fb5273d`](https://github.com/diegomura/react-pdf/commit/fb5273d8d80d919f7b9c214e02d67b79ce23fa19)]:
-  - @easypliant/react-pdf-types@2.4.0
-  - @easypliant/react-pdf-stylesheet@4.2.2
+  - @culinario-mortale/react-pdf-types@2.4.0
+  - @culinario-mortale/react-pdf-stylesheet@4.2.2
 
 ## 3.10.1
 
@@ -333,8 +333,8 @@
 - Updated dependencies
   [[`36c6ba3`](https://github.com/diegomura/react-pdf/commit/36c6ba30ae73a512f19fe5bc47ac8c304887c0da),
   [`a35b1ba`](https://github.com/diegomura/react-pdf/commit/a35b1ba18d293df51293600d8d56015094d222d8)]:
-  - @easypliant/react-pdf-pdfkit@3.1.1
-  - @easypliant/react-pdf-image@2.3.1
+  - @culinario-mortale/react-pdf-pdfkit@3.1.1
+  - @culinario-mortale/react-pdf-image@2.3.1
 
 ## 3.10.0
 
@@ -348,8 +348,8 @@
 
 - Updated dependencies
   [[`9e5842b`](https://github.com/diegomura/react-pdf/commit/9e5842bbecca6e249af2c5fc50078bb7ddd5420f)]:
-  - @easypliant/react-pdf-types@2.3.6
-  - @easypliant/react-pdf-stylesheet@4.2.1
+  - @culinario-mortale/react-pdf-types@2.3.6
+  - @culinario-mortale/react-pdf-stylesheet@4.2.1
 
 ## 3.9.1
 
@@ -357,7 +357,7 @@
 
 - Updated dependencies
   [[`42bbbda`](https://github.com/diegomura/react-pdf/commit/42bbbda48058acd2d36d7a92c812d133608c459e)]:
-  - @easypliant/react-pdf-primitives@3.1.1
+  - @culinario-mortale/react-pdf-primitives@3.1.1
 
 ## 3.9.0
 
@@ -385,12 +385,12 @@
 - Updated dependencies
   [[`6bfe7e8`](https://github.com/diegomura/react-pdf/commit/6bfe7e8a30d96c04a1552800159992705f3605b1),
   [`b6a14fd`](https://github.com/diegomura/react-pdf/commit/b6a14fd160fab26a49f798e5294b0e361e67fe37)]:
-  - @easypliant/react-pdf-stylesheet@4.2.0
-  - @easypliant/react-pdf-primitives@3.1.0
-  - @easypliant/react-pdf-textkit@4.3.0
-  - @easypliant/react-pdf-pdfkit@3.1.0
-  - @easypliant/react-pdf-image@2.3.0
-  - @easypliant/react-pdf-fns@2.1.0
+  - @culinario-mortale/react-pdf-stylesheet@4.2.0
+  - @culinario-mortale/react-pdf-primitives@3.1.0
+  - @culinario-mortale/react-pdf-textkit@4.3.0
+  - @culinario-mortale/react-pdf-pdfkit@3.1.0
+  - @culinario-mortale/react-pdf-image@2.3.0
+  - @culinario-mortale/react-pdf-fns@2.1.0
 
 ## 3.8.0
 
@@ -426,11 +426,11 @@
   [`b457a0c`](https://github.com/diegomura/react-pdf/commit/b457a0cc1c1352325e6c633af3000a3c9241f7f7),
   [`1f987cc`](https://github.com/diegomura/react-pdf/commit/1f987cc27c3fd1ef1b6748ebe58a289a78b538d2),
   [`4c40b14`](https://github.com/diegomura/react-pdf/commit/4c40b149cfed42f2513e1dd330a92ccc3363c04f)]:
-  - @easypliant/react-pdf-types@2.3.5
-  - @easypliant/react-pdf-textkit@4.2.1
-  - @easypliant/react-pdf-pdfkit@3.0.4
-  - @easypliant/react-pdf-image@2.2.3
-  - @easypliant/react-pdf-stylesheet@4.1.9
+  - @culinario-mortale/react-pdf-types@2.3.5
+  - @culinario-mortale/react-pdf-textkit@4.2.1
+  - @culinario-mortale/react-pdf-pdfkit@3.0.4
+  - @culinario-mortale/react-pdf-image@2.2.3
+  - @culinario-mortale/react-pdf-stylesheet@4.1.9
 
 ## 3.6.4
 
@@ -438,7 +438,7 @@
 
 - Updated dependencies
   [[`4cfb84d`](https://github.com/diegomura/react-pdf/commit/4cfb84d9f3d2301720b68b4c40a0257b9520c6e1)]:
-  - @easypliant/react-pdf-pdfkit@3.0.3
+  - @culinario-mortale/react-pdf-pdfkit@3.0.3
 
 ## 3.6.3
 
@@ -446,9 +446,9 @@
 
 - Updated dependencies
   [[`4a55c1b`](https://github.com/diegomura/react-pdf/commit/4a55c1b2ed19e460ccae6e749ed94c16729a23c4)]:
-  - @easypliant/react-pdf-image@2.2.2
-  - @easypliant/react-pdf-types@2.3.4
-  - @easypliant/react-pdf-stylesheet@4.1.8
+  - @culinario-mortale/react-pdf-image@2.2.2
+  - @culinario-mortale/react-pdf-types@2.3.4
+  - @culinario-mortale/react-pdf-stylesheet@4.1.8
 
 ## 3.6.2
 
@@ -457,8 +457,8 @@
 - Updated dependencies
   [[`1e1fbdc`](https://github.com/diegomura/react-pdf/commit/1e1fbdc3c33ced46d8c7ebba7a196733cb789d59),
   [`8636812`](https://github.com/diegomura/react-pdf/commit/86368122ed87621d19ae3bc248080e17703d9fcb)]:
-  - @easypliant/react-pdf-types@2.3.3
-  - @easypliant/react-pdf-stylesheet@4.1.7
+  - @culinario-mortale/react-pdf-types@2.3.3
+  - @culinario-mortale/react-pdf-stylesheet@4.1.7
 
 ## 3.6.1
 
@@ -466,8 +466,8 @@
 
 - Updated dependencies
   [[`a25dbcb`](https://github.com/diegomura/react-pdf/commit/a25dbcb32b65c300f5b088e8b210bb0c1abca5c2)]:
-  - @easypliant/react-pdf-types@2.3.2
-  - @easypliant/react-pdf-stylesheet@4.1.6
+  - @culinario-mortale/react-pdf-types@2.3.2
+  - @culinario-mortale/react-pdf-stylesheet@4.1.6
 
 ## 3.6.0
 
@@ -488,8 +488,8 @@
 
 - Updated dependencies
   [[`47e91cb`](https://github.com/diegomura/react-pdf/commit/47e91cbd8016046bb4e8389ba0d1c7ede9edce59)]:
-  - @easypliant/react-pdf-types@2.3.1
-  - @easypliant/react-pdf-stylesheet@4.1.5
+  - @culinario-mortale/react-pdf-types@2.3.1
+  - @culinario-mortale/react-pdf-stylesheet@4.1.5
 
 ## 3.5.0
 
@@ -506,11 +506,11 @@
   [[`2db67a3`](https://github.com/diegomura/react-pdf/commit/2db67a38b9be98b7816a2b5aa4733446b95e3724),
   [`eff1ff0`](https://github.com/diegomura/react-pdf/commit/eff1ff0fefcd710994e4654904ef55843af76a17),
   [`c5b21fc`](https://github.com/diegomura/react-pdf/commit/c5b21fc97b704b3616522b897847a9d3c9dc0052)]:
-  - @easypliant/react-pdf-textkit@4.2.0
-  - @easypliant/react-pdf-types@2.3.0
-  - @easypliant/react-pdf-fns@2.0.1
-  - @easypliant/react-pdf-yoga@4.1.2
-  - @easypliant/react-pdf-stylesheet@4.1.4
+  - @culinario-mortale/react-pdf-textkit@4.2.0
+  - @culinario-mortale/react-pdf-types@2.3.0
+  - @culinario-mortale/react-pdf-fns@2.0.1
+  - @culinario-mortale/react-pdf-yoga@4.1.2
+  - @culinario-mortale/react-pdf-stylesheet@4.1.4
 
 ## 3.4.1
 
@@ -522,11 +522,11 @@
 
 - Updated dependencies
   [[`9a5e0be`](https://github.com/diegomura/react-pdf/commit/9a5e0befb89756db07ce053192a136df9d4ba905)]:
-  - @easypliant/react-pdf-stylesheet@4.1.3
-  - @easypliant/react-pdf-textkit@4.1.1
-  - @easypliant/react-pdf-pdfkit@3.0.2
-  - @easypliant/react-pdf-image@2.2.1
-  - @easypliant/react-pdf-yoga@4.1.1
+  - @culinario-mortale/react-pdf-stylesheet@4.1.3
+  - @culinario-mortale/react-pdf-textkit@4.1.1
+  - @culinario-mortale/react-pdf-pdfkit@3.0.2
+  - @culinario-mortale/react-pdf-image@2.2.1
+  - @culinario-mortale/react-pdf-yoga@4.1.1
 
 ## 3.4.0
 
@@ -547,8 +547,8 @@
 
 - Updated dependencies
   [[`72435bd`](https://github.com/diegomura/react-pdf/commit/72435bd81afdada5b811a1d82af0c873cfb62fa0)]:
-  - @easypliant/react-pdf-stylesheet@4.1.1
-  - @easypliant/react-pdf-yoga@4.1.0
+  - @culinario-mortale/react-pdf-stylesheet@4.1.1
+  - @culinario-mortale/react-pdf-yoga@4.1.0
 
 ## 3.3.0
 
@@ -563,9 +563,9 @@
 - Updated dependencies
   [[`a743c90`](https://github.com/diegomura/react-pdf/commit/a743c905fb5d201d2382bc9175fa36b83cc47284),
   [`a14ca9e`](https://github.com/diegomura/react-pdf/commit/a14ca9e62c9edc37f239558f8dbae29212b0da4d)]:
-  - @easypliant/react-pdf-stylesheet@4.1.0
-  - @easypliant/react-pdf-types@2.2.0
-  - @easypliant/react-pdf-yoga@4.0.0
+  - @culinario-mortale/react-pdf-stylesheet@4.1.0
+  - @culinario-mortale/react-pdf-types@2.2.0
+  - @culinario-mortale/react-pdf-yoga@4.0.0
 
 ## 3.2.2
 
@@ -610,12 +610,12 @@
   [`001a208`](https://github.com/diegomura/react-pdf/commit/001a20812fa039d09931b22eb97a8869e3b31cc5),
   [`d1f3d5b`](https://github.com/diegomura/react-pdf/commit/d1f3d5b9b4103705e95e2160347ee253d842ed5d),
   [`9996158`](https://github.com/diegomura/react-pdf/commit/9996158636edf2118c4a6dcce08a00408b982993)]:
-  - @easypliant/react-pdf-fns@2.0.0
-  - @easypliant/react-pdf-pdfkit@3.0.0
-  - @easypliant/react-pdf-stylesheet@4.0.0
-  - @easypliant/react-pdf-yoga@3.0.0
-  - @easypliant/react-pdf-image@2.2.0
-  - @easypliant/react-pdf-textkit@4.1.0
+  - @culinario-mortale/react-pdf-fns@2.0.0
+  - @culinario-mortale/react-pdf-pdfkit@3.0.0
+  - @culinario-mortale/react-pdf-stylesheet@4.0.0
+  - @culinario-mortale/react-pdf-yoga@3.0.0
+  - @culinario-mortale/react-pdf-image@2.2.0
+  - @culinario-mortale/react-pdf-textkit@4.1.0
 
 ## 3.1.2
 
@@ -636,9 +636,9 @@
   [`0fcc594`](https://github.com/diegomura/react-pdf/commit/0fcc594310d5af30ca1e752b3efc7a047e813dcb),
   [`37a9a74`](https://github.com/diegomura/react-pdf/commit/37a9a747f7677fa05e3ddf5669c0379aa65c1e39),
   [`884695b`](https://github.com/diegomura/react-pdf/commit/884695b44feb974f155c83e0714e8e939b4f641b)]:
-  - @easypliant/react-pdf-pdfkit@2.4.0
-  - @easypliant/react-pdf-stylesheet@3.2.0
-  - @easypliant/react-pdf-textkit@4.0.0
+  - @culinario-mortale/react-pdf-pdfkit@2.4.0
+  - @culinario-mortale/react-pdf-stylesheet@3.2.0
+  - @culinario-mortale/react-pdf-textkit@4.0.0
 
 ## 3.1.1
 
@@ -685,9 +685,9 @@
   [`24f5c77`](https://github.com/diegomura/react-pdf/commit/24f5c77706e12dbab45053cb704a2fe7cf60eb53),
   [`ce8762f`](https://github.com/diegomura/react-pdf/commit/ce8762f6de5c796e69ec5a225c7f3ff9c619a960),
   [`5d2c308`](https://github.com/diegomura/react-pdf/commit/5d2c3088cf438a8abf1038b14a21117fecf59d57)]:
-  - @easypliant/react-pdf-pdfkit@2.3.0
-  - @easypliant/react-pdf-types@2.1.0
-  - @easypliant/react-pdf-stylesheet@3.1.0
+  - @culinario-mortale/react-pdf-pdfkit@2.3.0
+  - @culinario-mortale/react-pdf-types@2.1.0
+  - @culinario-mortale/react-pdf-stylesheet@3.1.0
 
 ## 3.0.0
 
@@ -724,12 +724,12 @@
   [`fe0f214`](https://github.com/diegomura/react-pdf/commit/fe0f214dbbf2f632b852ebfe65f886ecc4dd6953),
   [`9a2b935`](https://github.com/diegomura/react-pdf/commit/9a2b935cfe173f80425ed87d9f474da271c050d2),
   [`25a80eb`](https://github.com/diegomura/react-pdf/commit/25a80ebd5f96ade7101883624010bad51474967c)]:
-  - @easypliant/react-pdf-primitives@3.0.0
-  - @easypliant/react-pdf-stylesheet@3.0.0
-  - @easypliant/react-pdf-fns@1.0.0
-  - @easypliant/react-pdf-textkit@3.0.0
-  - @easypliant/react-pdf-types@2.0.9
-  - @easypliant/react-pdf-pdfkit@2.2.0
+  - @culinario-mortale/react-pdf-primitives@3.0.0
+  - @culinario-mortale/react-pdf-stylesheet@3.0.0
+  - @culinario-mortale/react-pdf-fns@1.0.0
+  - @culinario-mortale/react-pdf-textkit@3.0.0
+  - @culinario-mortale/react-pdf-types@2.0.9
+  - @culinario-mortale/react-pdf-pdfkit@2.2.0
 
 ## 2.1.1
 
@@ -741,7 +741,7 @@
 
 - Updated dependencies
   [[`90ab2f8`](https://github.com/diegomura/react-pdf/commit/90ab2f8c040afc3d42961404bdf2ae09fac599eb)]:
-  - @easypliant/react-pdf-image@2.1.1
+  - @culinario-mortale/react-pdf-image@2.1.1
 
 ## 2.1.0
 
@@ -769,10 +769,10 @@
   [`5d2d688`](https://github.com/diegomura/react-pdf/commit/5d2d688e18c830bb96c6e08446437d29f9f9c65f),
   [`ccf3bf2`](https://github.com/diegomura/react-pdf/commit/ccf3bf22867a9bd49668cdd3543ec32492a40e4b),
   [`a592e99`](https://github.com/diegomura/react-pdf/commit/a592e99f7df7481697582c2a12f31ce7f9559c66)]:
-  - @easypliant/react-pdf-stylesheet@2.1.0
-  - @easypliant/react-pdf-image@2.1.0
-  - @easypliant/react-pdf-pdfkit@2.1.0
-  - @easypliant/react-pdf-primitives@2.0.2
-  - @easypliant/react-pdf-textkit@2.1.0
-  - @easypliant/react-pdf-types@2.0.8
-  - @easypliant/react-pdf-yoga@2.0.4
+  - @culinario-mortale/react-pdf-stylesheet@2.1.0
+  - @culinario-mortale/react-pdf-image@2.1.0
+  - @culinario-mortale/react-pdf-pdfkit@2.1.0
+  - @culinario-mortale/react-pdf-primitives@2.0.2
+  - @culinario-mortale/react-pdf-textkit@2.1.0
+  - @culinario-mortale/react-pdf-types@2.0.8
+  - @culinario-mortale/react-pdf-yoga@2.0.4

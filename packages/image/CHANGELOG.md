@@ -1,4 +1,4 @@
-# @easypliant/react-pdf-image
+# @culinario-mortale/react-pdf-image
 
 ## 5.0.1
 
@@ -7,7 +7,7 @@
 - Fix: release config
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-png-js@5.0.1
+  - @culinario-mortale/react-pdf-png-js@5.0.1
 
 ## 5.0.0
 
@@ -18,7 +18,7 @@
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-png-js@5.0.0
+  - @culinario-mortale/react-pdf-png-js@5.0.0
 
 ## 4.0.0
 
@@ -29,7 +29,7 @@
 ### Patch Changes
 
 - Updated dependencies []:
-  - @easypliant/react-pdf-png-js@4.0.0
+  - @culinario-mortale/react-pdf-png-js@4.0.0
 
 ## 3.0.1
 
@@ -55,7 +55,7 @@
 
 - Updated dependencies
   [[`70f29a04`](https://github.com/diegomura/react-pdf/commit/70f29a0407b1d56e9a7932b25c0d69132e9b4119)]:
-  - @easypliant/react-pdf-png-js@3.0.0
+  - @culinario-mortale/react-pdf-png-js@3.0.0
 
 ## 2.3.6
 
@@ -84,7 +84,7 @@
 
 - Updated dependencies
   [[`f7505ed`](https://github.com/diegomura/react-pdf/commit/f7505ed453a1a0ae960d0e5e4a1d155803861b71)]:
-  - @easypliant/react-pdf-png-js@2.3.1
+  - @culinario-mortale/react-pdf-png-js@2.3.1
 
 ## 2.3.3
 
@@ -125,7 +125,7 @@
 
 - Updated dependencies
   [[`b6a14fd`](https://github.com/diegomura/react-pdf/commit/b6a14fd160fab26a49f798e5294b0e361e67fe37)]:
-  - @easypliant/react-pdf-png-js@2.3.0
+  - @culinario-mortale/react-pdf-png-js@2.3.0
 
 ## 2.2.3
 
@@ -166,7 +166,7 @@
 - Updated dependencies
   [[`a5a933c`](https://github.com/diegomura/react-pdf/commit/a5a933c9733e4c77338ef76a2b3545b84a646a81),
   [`001a208`](https://github.com/diegomura/react-pdf/commit/001a20812fa039d09931b22eb97a8869e3b31cc5)]:
-  - @easypliant/react-pdf-png-js@2.2.0
+  - @culinario-mortale/react-pdf-png-js@2.2.0
 
 ## 2.1.1
 
@@ -197,4 +197,4 @@
 - Updated dependencies
   [[`4c5d527`](https://github.com/diegomura/react-pdf/commit/4c5d52721d29d843f1d09c3fd74370832429f70e),
   [`04449ab`](https://github.com/diegomura/react-pdf/commit/04449ab352db0cca2155024dd3e8c690e42193ca)]:
-  - @easypliant/react-pdf-png-js@2.1.0
+  - @culinario-mortale/react-pdf-png-js@2.1.0

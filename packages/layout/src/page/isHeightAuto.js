@@ -1,4 +1,4 @@
-import { isNil } from "@easypliant/react-pdf-fns";
+import { isNil } from "@culinario-mortale/react-pdf-fns";
 
 /**
  * Checks if page has auto height

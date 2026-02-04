@@ -2,8 +2,8 @@
   <img src="https://user-images.githubusercontent.com/5600341/27505816-c8bc37aa-587f-11e7-9a86-08a2d081a8b9.png" height="280px">
   <p align="center">React renderer for creating PDF files on the browser and server<p>
   <p align="center">
-    <a href="https://www.npmjs.com/package/@easypliant/react-pdf-renderer">
-      <img src="https://img.shields.io/npm/v/@easypliant/react-pdf-renderer?style=flat&colorA=000000&colorB=000000" />
+    <a href="https://www.npmjs.com/package/@culinario-mortale/react-pdf-renderer">
+      <img src="https://img.shields.io/npm/v/@culinario-mortale/react-pdf-renderer?style=flat&colorA=000000&colorB=000000" />
     </a>
      <a href="https://opencollective.com/react-pdf">
       <img src="https://img.shields.io/opencollective/all/react-pdf?style=flat&colorA=000000&colorB=000000" />
@@ -22,25 +22,26 @@
 
 ## Lost?
 
-This package is used to _create_ PDFs using React. If you wish to _display_ existing PDFs, you may be looking for [react-pdf](https://github.com/wojtekmaj/react-pdf).
+This package is used to _create_ PDFs using React. If you wish to _display_ existing PDFs, you may be
+looking for [react-pdf](https://github.com/wojtekmaj/react-pdf).
 
 ## How to install
 
 ```sh
-yarn add @easypliant/react-pdf-renderer
+yarn add @culinario-mortale/react-pdf-renderer
 ```
 
 ## How it works
 
 ```jsx
-import React from 'react';
-import { Document, Page, Text, View, StyleSheet } from '@easypliant/react-pdf-renderer';
+import React from "react";
+import { Document, Page, Text, View, StyleSheet } from "@culinario-mortale/react-pdf-renderer";
 
 // Create styles
 const styles = StyleSheet.create({
   page: {
-    flexDirection: 'row',
-    backgroundColor: '#E4E4E4',
+    flexDirection: "row",
+    backgroundColor: "#E4E4E4",
   },
   section: {
     margin: 10,
@@ -67,9 +68,9 @@ const MyDocument = () => (
 ### `Web.` Render in DOM
 
 ```jsx
-import React from 'react';
-import ReactDOM from 'react-dom';
-import { PDFViewer } from '@easypliant/react-pdf-renderer';
+import React from "react";
+import ReactDOM from "react-dom";
+import { PDFViewer } from "@culinario-mortale/react-pdf-renderer";
 
 const App = () => (
   <PDFViewer>
@@ -77,21 +78,23 @@ const App = () => (
   </PDFViewer>
 );
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById("root"));
 ```
 
 ### `Node.` Save in a file
 
 ```jsx
-import React from 'react';
-import ReactPDF from '@easypliant/react-pdf-renderer';
+import React from "react";
+import ReactPDF from "@culinario-mortale/react-pdf-renderer";
 
 ReactPDF.render(<MyDocument />, `${__dirname}/example.pdf`);
 ```
 
 ## Contributors
 
-This project exists thanks to all the people who contribute. Looking to contribute? Please check our [[contribute]](https://github.com/diegomura/react-pdf/blob/master/.github/CONTRIBUTING.md) document for more details about how to setup a development environment and submitting code.
+This project exists thanks to all the people who contribute. Looking to contribute? Please check our
+[[contribute]](https://github.com/diegomura/react-pdf/blob/master/.github/CONTRIBUTING.md) document for
+more details about how to setup a development environment and submitting code.
 
 <a href="https://github.com/diegomura/react-pdf/blob/master/.github/CONTRIBUTING.md"><img src="https://opencollective.com/react-pdf/contributors.svg?width=890" /></a>
 
@@ -113,4 +116,4 @@ MIT © [Diego Muracciole](http://github.com/diegomura)
 
 ---
 
-![](https://img.shields.io/npm/dt/@easypliant/react-pdf-renderer.svg?style=flat)
+![](https://img.shields.io/npm/dt/@culinario-mortale/react-pdf-renderer.svg?style=flat)

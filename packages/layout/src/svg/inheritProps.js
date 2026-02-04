@@ -1,4 +1,4 @@
-import { pick } from "@easypliant/react-pdf-fns";
+import { pick } from "@culinario-mortale/react-pdf-fns";
 
 const SVG_INHERITED_PROPS = [
   "x",

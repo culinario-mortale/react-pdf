@@ -10,7 +10,7 @@ import {
   Image,
   Document,
   StyleSheet,
-} from "@easypliant/react-pdf-renderer";
+} from "@culinario-mortale/react-pdf-renderer";
 import renderToImage from "./renderComponent";
 
 const headerStyles = StyleSheet.create({

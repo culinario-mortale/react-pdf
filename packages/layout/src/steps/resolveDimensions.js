@@ -1,5 +1,5 @@
-import * as P from "@easypliant/react-pdf-primitives";
-import { isNil, compose } from "@easypliant/react-pdf-fns";
+import * as P from "@culinario-mortale/react-pdf-primitives";
+import { isNil, compose } from "@culinario-mortale/react-pdf-fns";
 
 import getMargin from "../node/getMargin";
 import getPadding from "../node/getPadding";

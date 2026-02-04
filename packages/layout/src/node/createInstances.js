@@ -1,5 +1,5 @@
-import { castArray } from "@easypliant/react-pdf-fns";
-import { TextInstance } from "@easypliant/react-pdf-primitives";
+import { castArray } from "@culinario-mortale/react-pdf-fns";
+import { TextInstance } from "@culinario-mortale/react-pdf-primitives";
 
 const isString = (value) => typeof value === "string";
 

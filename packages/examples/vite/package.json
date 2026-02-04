@@ -1,17 +1,17 @@
 {
-  "name": "@easypliant/react-pdf-vite-example",
+  "name": "@culinario-mortale/react-pdf-vite-example",
   "version": "5.0.2",
   "license": "MIT",
   "private": true,
   "author": "Diego Muracciole <diegomuracciole@gmail.com>",
-  "homepage": "https://github.com/easypliant/react-pdf#readme",
-  "repository": "git+https://github.com/easypliant/react-pdf.git",
+  "homepage": "https://github.com/culinario-mortale/react-pdf#readme",
+  "repository": "git+https://github.com/culinario-mortale/react-pdf.git",
   "scripts": {
     "dev": "vite ./src --open",
     "build:site": "vite build ./src"
   },
   "dependencies": {
-    "@easypliant/react-pdf-renderer": "^6.0.2"
+    "@culinario-mortale/react-pdf-renderer": "^6.0.2"
   },
   "peerDependencies": {
     "react": "^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0",

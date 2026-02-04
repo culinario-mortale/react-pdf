@@ -1,4 +1,4 @@
-import { isNil } from "@easypliant/react-pdf-fns";
+import { isNil } from "@culinario-mortale/react-pdf-fns";
 
 import clipNode from "../operations/clipNode";
 import parseColor from "../utils/parseColor";
