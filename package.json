@@ -20,7 +20,7 @@
     "dev": "lerna run dev --scope @culinario-mortale/react-pdf-examples --",
     "pretty": "prettier --write \"./**/*.{js,jsx,mjs,cjs,ts,tsx,json}\"",
     "changeset": "changeset",
-    "version-packages": "GITHUB_TOKEN=$GITHUB_TOKEN_PACKAGES changeset version",
+    "version-packages": "GITHUB_TOKEN=$CM_GITHUB_TOKEN changeset version",
     "release": "changeset publish"
   },
   "devDependencies": {
