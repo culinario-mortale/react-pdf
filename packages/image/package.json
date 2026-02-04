@@ -1,6 +1,6 @@
 {
   "name": "@culinario-mortale/react-pdf-image",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "license": "MIT",
   "description": "Parses the images in png or jpeg format for react-pdf document",
   "author": "Diego Muracciole <diegomuracciole@gmail.com>",
@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.20.13",
-    "@culinario-mortale/react-pdf-png-js": "^5.0.1",
+    "@culinario-mortale/react-pdf-png-js": "^5.0.2",
     "jay-peg": "^1.1.1"
   },
   "files": [

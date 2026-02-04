@@ -1,5 +1,14 @@
 # @culinario-mortale/react-pdf-font
 
+## 5.0.2
+
+### Patch Changes
+
+- feat: update deps and fix tests
+
+- Updated dependencies []:
+  - @culinario-mortale/react-pdf-types@4.0.2
+
 ## 5.0.1
 
 ### Patch Changes

@@ -81,8 +81,9 @@ const pdf = (initialValue) => {
   };
 
   const callOnRender = (params = {}) => {
-    if (container.document.props.onRender) {
-      container.document.props.onRender(params);
+    const doc = container.document;
+    if (doc && doc.props && doc.props.onRender) {
+      doc.props.onRender(params);
     }
   };
 

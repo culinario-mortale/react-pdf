@@ -1,5 +1,14 @@
 # next-15
 
+## 2.0.3
+
+### Patch Changes
+
+- feat: update deps and fix tests
+
+- Updated dependencies []:
+  - @culinario-mortale/react-pdf-renderer@6.0.3
+
 ## 2.0.2
 
 ### Patch Changes

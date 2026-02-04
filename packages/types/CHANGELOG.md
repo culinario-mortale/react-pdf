@@ -1,5 +1,11 @@
 # @culinario-mortale/react-pdf-types
 
+## 4.0.2
+
+### Patch Changes
+
+- feat: update deps and fix tests
+
 ## 4.0.1
 
 ### Patch Changes

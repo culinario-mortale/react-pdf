@@ -1,7 +1,7 @@
 {
   "name": "@culinario-mortale/react-pdf-svgkit",
   "license": "MIT",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "description": "A SVG generation library for Node.js and browser",
   "type": "module",
   "main": "./lib/index.js",
@@ -23,6 +23,6 @@
   ],
   "dependencies": {
     "@babel/runtime": "^7.20.13",
-    "@culinario-mortale/react-pdf-pdfkit": "^6.0.2"
+    "@culinario-mortale/react-pdf-pdfkit": "^6.0.3"
   }
 }

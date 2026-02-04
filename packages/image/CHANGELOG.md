@@ -1,5 +1,14 @@
 # @culinario-mortale/react-pdf-image
 
+## 5.0.2
+
+### Patch Changes
+
+- feat: update deps and fix tests
+
+- Updated dependencies []:
+  - @culinario-mortale/react-pdf-png-js@5.0.2
+
 ## 5.0.1
 
 ### Patch Changes

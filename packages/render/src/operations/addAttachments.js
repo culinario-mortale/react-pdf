@@ -1,5 +1,5 @@
 const addAttachments = (ctx, root) => {
-  const attachments = root.props.attachments || [];
+  const attachments = root?.props?.attachments || [];
 
   attachments.forEach((attachment) => {
     ctx.file(attachment.content, {

@@ -1,6 +1,6 @@
 {
   "name": "@culinario-mortale/react-pdf-types",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "license": "MIT",
   "description": "React-pdf TypeScript definitions",
   "author": "Diego Muracciole <diegomuracciole@gmail.com>",

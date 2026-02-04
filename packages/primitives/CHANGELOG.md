@@ -1,5 +1,11 @@
 # @culinario-mortale/react-pdf-primitives
 
+## 6.0.2
+
+### Patch Changes
+
+- feat: update deps and fix tests
+
 ## 6.0.1
 
 ### Patch Changes

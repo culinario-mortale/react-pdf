@@ -1,6 +1,6 @@
 {
   "name": "@culinario-mortale/react-pdf-fns",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "license": "MIT",
   "description": "React-pdf helper functions",
   "author": "Diego Muracciole <diegomuracciole@gmail.com>",

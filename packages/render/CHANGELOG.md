@@ -1,5 +1,17 @@
 # @culinario-mortale/react-pdf-render
 
+## 6.0.2
+
+### Patch Changes
+
+- feat: update deps and fix tests
+
+- Updated dependencies []:
+  - @culinario-mortale/react-pdf-fns@5.0.2
+  - @culinario-mortale/react-pdf-primitives@6.0.2
+  - @culinario-mortale/react-pdf-textkit@7.0.2
+  - @culinario-mortale/react-pdf-types@4.0.2
+
 ## 6.0.1
 
 ### Patch Changes

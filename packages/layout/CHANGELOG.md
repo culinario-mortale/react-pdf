@@ -1,5 +1,20 @@
 # @culinario-mortale/react-pdf-layout
 
+## 6.0.3
+
+### Patch Changes
+
+- feat: update deps and fix tests
+
+- Updated dependencies []:
+  - @culinario-mortale/react-pdf-fns@5.0.2
+  - @culinario-mortale/react-pdf-image@5.0.2
+  - @culinario-mortale/react-pdf-pdfkit@6.0.3
+  - @culinario-mortale/react-pdf-primitives@6.0.2
+  - @culinario-mortale/react-pdf-stylesheet@7.0.2
+  - @culinario-mortale/react-pdf-textkit@7.0.2
+  - @culinario-mortale/react-pdf-types@4.0.2
+
 ## 6.0.2
 
 ### Patch Changes

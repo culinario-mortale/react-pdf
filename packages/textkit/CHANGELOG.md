@@ -1,5 +1,14 @@
 # @culinario-mortale/react-pdf-textkit
 
+## 7.0.2
+
+### Patch Changes
+
+- feat: update deps and fix tests
+
+- Updated dependencies []:
+  - @culinario-mortale/react-pdf-fns@5.0.2
+
 ## 7.0.1
 
 ### Patch Changes

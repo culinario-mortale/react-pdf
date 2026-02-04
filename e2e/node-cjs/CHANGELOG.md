@@ -1,5 +1,14 @@
 # @culinario-mortale/react-pdf-e2e-node-cjs
 
+## 4.0.3
+
+### Patch Changes
+
+- feat: update deps and fix tests
+
+- Updated dependencies []:
+  - @culinario-mortale/react-pdf-renderer@6.0.3
+
 ## 4.0.2
 
 ### Patch Changes

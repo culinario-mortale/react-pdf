@@ -1,5 +1,14 @@
 # @culinario-mortale/react-pdf-svgkit
 
+## 4.0.3
+
+### Patch Changes
+
+- feat: update deps and fix tests
+
+- Updated dependencies []:
+  - @culinario-mortale/react-pdf-pdfkit@6.0.3
+
 ## 4.0.2
 
 ### Patch Changes

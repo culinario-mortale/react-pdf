@@ -1,5 +1,11 @@
 # @culinario-mortale/react-pdf-fns
 
+## 5.0.2
+
+### Patch Changes
+
+- feat: update deps and fix tests
+
 ## 5.0.1
 
 ### Patch Changes

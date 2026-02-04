@@ -1,6 +1,6 @@
 {
   "name": "next-14",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -8,7 +8,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@culinario-mortale/react-pdf-renderer": "^6.0.2",
+    "@culinario-mortale/react-pdf-renderer": "^6.0.3",
     "react": "^18",
     "react-dom": "^18",
     "next": "14.2.17"

@@ -268,8 +268,10 @@ const resolvePagination = (doc, fontStore) => {
   let pages = [];
   let pageNumber = 1;
 
-  for (let i = 0; i < doc.children.length; i += 1) {
-    const page = doc.children[i];
+  const children = doc?.children || [];
+
+  for (let i = 0; i < children.length; i += 1) {
+    const page = children[i];
     let subpages = paginate(page, pageNumber, fontStore, doc.yoga);
 
     subpages = assocSubPageData(subpages);
